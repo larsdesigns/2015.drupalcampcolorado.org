@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - DevOps</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/10</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>DevOps 101: Cross Platform Drupal DevOps Training</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/training/devops-101-cross-platform-drupal-devops-training</link>
+ <description>&lt;div class=&quot;field field-name-commerce-price field-type-commerce-price field-label-inline clearfix&quot;&gt;&lt;div &gt;Price:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;$0.00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-register-for-training field-type-commerce-product-reference field-label-hidden&quot;&gt;&lt;div &gt;&lt;div &gt;&lt;form class=&quot;commerce-add-to-cart commerce-cart-add-to-cart-form-8&quot; action=&quot;/taxonomy/term/10/feed&quot; method=&quot;post&quot; id=&quot;commerce-cart-add-to-cart-form-8&quot; accept-charset=&quot;UTF-8&quot;&gt;&lt;div&gt;&lt;input disabled=&quot;disabled&quot; type=&quot;hidden&quot; name=&quot;product_id&quot; value=&quot;8&quot; /&gt;
+&lt;input disabled=&quot;disabled&quot; type=&quot;hidden&quot; name=&quot;form_build_id&quot; value=&quot;form-BseCiIrpflvM2TY0IH1gJwGlSbGm9wppmtl1j3OdaMY&quot; /&gt;
+&lt;input disabled=&quot;disabled&quot; type=&quot;hidden&quot; name=&quot;form_id&quot; value=&quot;commerce_cart_add_to_cart_form_8&quot; /&gt;
+&lt;div disabled=&quot;disabled&quot; id=&quot;edit-line-item-fields&quot; class=&quot;form-wrapper&quot;&gt;&lt;/div&gt;&lt;input disabled=&quot;disabled&quot; type=&quot;hidden&quot; name=&quot;quantity&quot; value=&quot;1&quot; /&gt;
+&lt;input disabled=&quot;disabled&quot; type=&quot;submit&quot; id=&quot;edit-submit&quot; name=&quot;op&quot; value=&quot;Add to cart&quot; class=&quot;form-submit form-button-disabled&quot; /&gt;&lt;div class=&quot;dcco-url-textfield&quot;&gt;&lt;div class=&quot;form-item form-type-textfield form-item-dcco-url form-disabled&quot;&gt;
+  &lt;label class=&quot;form-item-label&quot; for=&quot;edit-dcco-url&quot;&gt;Leave this field blank &lt;/label&gt;
+ &lt;input autocomplete=&quot;off&quot; disabled=&quot;disabled&quot; type=&quot;text&quot; id=&quot;edit-dcco-url&quot; name=&quot;dcco-url&quot; value=&quot;&quot; size=&quot;20&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div &gt;&lt;div &gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://dev-2015drupalcampcoloradoorg.pantheonsite.io/sites/default/files/styles/large/public/training/logos/logo_devPanel_new_3-1.jpg?itok=FRceAkYg&quot; width=&quot;480&quot; height=&quot;279&quot; alt=&quot;devPanel.com- DevOps 101&quot; title=&quot;devPanel.com - DevOps 101&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-hidden&quot;&gt;&lt;div &gt;&lt;div &gt;Room 211&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt; Friday, June 19th, 9:30 am - 5:30 pm&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Setup your own point-and-click SDLC workflow across hosting companies/platforms using free and open source tools:&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ create dev, test, stage, and prod environments across hosting companies&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ Deploy pre-configured auto-scaling clusters for production sites&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ Work on project across platforms (eg: develop on DO and deploy production to AWS Cluster)&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ backup &amp;amp; restore sites across hosting companies&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ manage code and developers using git-flow&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ automatically create test sites from feature branches when using git-flow&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ automatically update sites based on tagged git commits&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;You’ll need accounts on Digital Ocean (&lt;a href=&quot;http://digitalocean.com&quot;&gt;http://digitalocean.com&lt;/a&gt;) and Amazon Web Services (&lt;a href=&quot;http://aws.amazon.com&quot;&gt;http://aws.amazon.com&lt;/a&gt;) before attending this training session. All hands-on exercises will require these accounts. &lt;/p&gt;
+&lt;p&gt;
+	The training session is FREE to attend. Seating, however, is limited. &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;DevOps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/taxonomy/term/12&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Intermediate&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 09 Jun 2015 00:45:35 +0000</pubDate>
+ <dc:creator>larsdesigns</dc:creator>
+ <guid isPermaLink="false">203 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/training/devops-101-cross-platform-drupal-devops-training#comments</comments>
+</item>
+<item>
+ <title>Drush for site builders and developers: work faster and smarter</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/drush-site-builders-and-developers-work-faster-and-smarter</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;You know you should be using drush, but why? And how?&lt;/p&gt;
+&lt;p&gt;This session will look at:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		The most common commands that people use in drush&lt;/li&gt;
+&lt;li&gt;
+		How to customize your drush environment for maximium productivity&lt;/li&gt;
+&lt;li&gt;
+		Writing a drush command to take care of things for you&lt;/li&gt;
+&lt;li&gt;
+		How to integrate drush with a continuous integration tool like Jenkins&lt;/li&gt;
+&lt;li&gt;
+		An audience participation question: what&#039;s your favorite thing about drush?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;If you build sites with Drupal or are a Drupal developer, I guarantee that I&#039;ll show you some ideas to save a few minutes every day, and probably a few hours here and there.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/greggles-0&quot;&gt;greggles&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 23 May 2015 04:21:29 +0000</pubDate>
+ <dc:creator>greggles</dc:creator>
+ <guid isPermaLink="false">191 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/drush-site-builders-and-developers-work-faster-and-smarter#comments</comments>
+</item>
+<item>
+ <title>ELK in a Box: Logs You Will Actually Look At</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/elk-box-logs-you-will-actually-look</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;WSOD happens, hopefully not in PROD... When things go wrong people start digging into log files, but which log do you need? Drupal, webserver, database, cache? And which entries matters in the thousands and thousands of lines?&lt;/p&gt;
+&lt;p&gt;This presentation will talk about collecting, aggregating, and presenting logs in a way that make you actually want to use them. The ELK (Elasticsearch, Logstash, and Kibana) stack has become a favorite for DevOps teams. We will talk about methods to move logs, how ingest log files using Logstash and how to visualize and search using Elasticsearch and Kibana.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/fullerja&quot;&gt;fullerja&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 16:03:12 +0000</pubDate>
+ <dc:creator>fullerja</dc:creator>
+ <guid isPermaLink="false">173 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/elk-box-logs-you-will-actually-look#comments</comments>
+</item>
+<item>
+ <title>Point-and-Click Drupal DevOps for AWS &amp; DigitalOcean</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/point-and-click-drupal-devops-aws-digitalocean</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 15:00-15:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Use Free and Open Source tools to:&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Setup dev, test, stage, and prod environments under your own AWS and&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;DO accounts&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Deploy auto-scaling and auto-healing clusters on AWS with one click&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Automate backups, monitoring, and alerts&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p2&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Setup your own SDLC using git-flow&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ create environments across hosting companies&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ eg: develop on DO and deploy production to AWS Cluster&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Use git-flow for managing code and developers&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ create unlimited feature branches and sites&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ backup &amp;amp; restore sites across hosting companies&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ link your own github and bitbucket repos&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p2&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Setup collaborative development&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Setup projects with servers, sites, repos and workflows&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Setup and manage teams with unlimited users&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Restrict user access to projects with teams&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Automate SSH key management across servers &amp;amp; sites&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p2&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Never worry about security patches and updates&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Have your OS automatically updated for vulnerabilities&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ eg: Heart Bleed and Shell Shock&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p2&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;Reduce your hosting costs by over 50%&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Import sites into your own DO or AWS account&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Run up to 6 low traffic sites on $5/month DO servers&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;+ Run auto-scaling clusters on AWS for as little as $100/month&lt;/span&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uPlfxcTBBH0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/sklakhani&quot;&gt;sklakhani&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 14:54:15 +0000</pubDate>
+ <dc:creator>MatthewS</dc:creator>
+ <guid isPermaLink="false">197 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/point-and-click-drupal-devops-aws-digitalocean#comments</comments>
+</item>
+<item>
+ <title>An Introduction to Containers</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/introduction-containers</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 15:00-15:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 203&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;You&#039;ve heard the term &quot;containers.&quot; Maybe you&#039;ve heard the buzz surrounding new technologies like Docker and CoreOS. They plaster the front pages of HackerNews, reddit and the blogosphere. &lt;/p&gt;
+&lt;p&gt;If you&#039;ve wondered just what the big deal is and what they are, this is a simple, what, why, and a how-to for containerization and how you can use it with Drupal. Simply put, containerization enables you to scale your apps with increasing ease. For developers, you can abstract away your infrastructure and stop worrying about developing, testing, and running in identical environments - it&#039;s all the same inside your container.&lt;/p&gt;
+&lt;p&gt;In this session, we&#039;ll go over, in broad strokes, what containers are, why you&#039;d want to use them, and how you can get a simple Drupal container app up and running.&lt;/p&gt;
+&lt;p&gt;Post-prez Resources:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;mailto:gabriel@sullice.com&quot;&gt;gabriel@sullice.com&lt;/a&gt; (Best contact)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/gabrielsullice&quot;&gt;@GabrielSullice&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1zC41B9oPT_s75E4pipQ34zv6gvmZimPf96vQxHA0rYY/edit?usp=sharing&quot;&gt;Slidedeck&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/gabesullice/drocker&quot;&gt;github.com/gabesullice/drocker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://coreos.com/docs&quot;&gt;https://coreos.com/docs&lt;/a&gt; (These docs are fantastic, especially the &quot;Getting started with... x&quot; links)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://5by5.tv/changelog/89&quot;&gt;The Changelog: Docker, LXC and dotCloud with Solomon Hykes&lt;/a&gt; (Great podcast on Docker, great podcast in general)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.newmediacampaigns.com/blog/docker-for-php-developers&quot;&gt;Docker for PHP Developers&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/gabesullice-0&quot;&gt;gabesullice&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 19 May 2015 22:55:58 +0000</pubDate>
+ <dc:creator>gabesullice</dc:creator>
+ <guid isPermaLink="false">164 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/introduction-containers#comments</comments>
+</item>
+<item>
+ <title>Drupal 8 CMI on Managed Workflow</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/drupal-8-cmi-managed-workflow</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 9:30-10:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Drupal 8 Configuration Management Initiative (CMI) is a straight up game changer for Drupal development and deployment. As much as we all love &lt;a href=&quot;https://www.youtube.com/watch?v=O_HyZ5aW76c&amp;amp;feature=kp&quot;&gt;doing it live&lt;/a&gt;, no longer will this kind of human powered configuration replay in production be necessary. Instead, developers will be able to natively export their configuration to code and deploy that configuration to production using the CMI tools.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://github-camo.global.ssl.fastly.net/f0f2137c670353f4573810d8d7d6c6b8848ee5ad/687474703a2f2f692e696d6775722e636f6d2f4b5761316b2e6a7067&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;This session will feature both a basic overview for how CMI will work in Drupal 8 and an advanced overview of how to use CMI with version control as part of a managed development -&amp;gt; testing -&amp;gt; production workflow. Forget &lt;a href=&quot;https://drupal.org/node/960926&quot;&gt;the pain that was drush fe and drush fu-all&lt;/a&gt;. Come join Matt Cheney from Pantheon in embracing modern configuration management in all its glory.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/populist&quot;&gt;populist&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 06 May 2015 00:02:58 +0000</pubDate>
+ <dc:creator>populist</dc:creator>
+ <guid isPermaLink="false">157 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/drupal-8-cmi-managed-workflow#comments</comments>
+</item>
+<item>
+ <title>The Deployable Dev Stack</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/deployable-dev-stack</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Are you sick of trying to figure out how to setup your local environment to closely mimic the live server? Have you ever said, “But it works locally!” Are you simply sick of manually running tasks over and over again like placing files or installing drupal/drush?&lt;/p&gt;
+&lt;p&gt;If you answered yes to any of these questions, you are not alone! Local development deserves the automation and ease that live and staging servers have using provisioning tools.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Your local machine is a server, too.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This talk will cover how to spin up a deployable local server using VAMPD, a Vagrant + Chef solution that includes a Drupal cookbook. The Drupal cookbook includes tasks like:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Pulling down the repo&lt;/li&gt;
+&lt;li&gt;
+		Creating the settings.php&lt;/li&gt;
+&lt;li&gt;
+		Importing a live database&lt;/li&gt;
+&lt;li&gt;
+		Setting Up php, mysql, and apache for Drupal Usage&lt;/li&gt;
+&lt;li&gt;
+		Installing Drush&lt;/li&gt;
+&lt;li&gt;
+		Automatically running Drush make, site-install, and/or update&lt;/li&gt;
+&lt;li&gt;
+		And more…&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;We will walk through the different abilities of VAMPD and how to configure it for any situation large or small. We will also discuss the inadvertent benefits of VAMPD including how it strengthens coding standards and adds consistency for individuals and across teams. The talk will additionally include a brief comparison of the other popular local development solutions currently available.&lt;/p&gt;
+&lt;p&gt;Finally, we will address how to go from local to live using the same tools!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This talk is for those who:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Want to automate all the things!&lt;/li&gt;
+&lt;li&gt;
+		Are tired of MAMP or WAMP&lt;/li&gt;
+&lt;li&gt;
+		Don’t want to be server experts&lt;/li&gt;
+&lt;li&gt;
+		Are server experts looking to deploy their Chef instances locally&lt;/li&gt;
+&lt;li&gt;
+		Don’t want to maintain custom bash scripts for each project.  &lt;/li&gt;
+&lt;li&gt;
+		Want to automate drupal tasks&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;More details on VAMPD can be found at &lt;a href=&quot;http://vampd.io&quot;&gt;http://vampd.io&lt;/a&gt; and &lt;a href=&quot;http://github.com/vampd/vampd&quot;&gt;http://github.com/vampd/vampd&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/j8gVqwfsTNY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/timodwhit-0&quot;&gt;timodwhit&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 22 Apr 2015 14:18:28 +0000</pubDate>
+ <dc:creator>timodwhit</dc:creator>
+ <guid isPermaLink="false">151 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/deployable-dev-stack#comments</comments>
+</item>
+</channel>
+</rss>

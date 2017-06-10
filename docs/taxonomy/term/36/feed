@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Beginner</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/track/beginner</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Tips and Tricks for Legacy Sites</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/tips-and-tricks-legacy-sites</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;It happens to everyone. We can&#039;t only build new sites from scratch. Legacy might mean a site built on Drupal 6 filled with out of date modules, or it could be something recent where the original developers moved on. So, how do I change this one line? What&#039;s placing (or not placing) that block on the page? Making changes in either case to an unfamiliar site can be daunting. But, with a few tips and tricks the process can involve slightly less hair loss. I&#039;ll provide examples from a number of the sites I&#039;ve worked on over the last few years.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/johne-0&quot;&gt;johne&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 04:17:36 +0000</pubDate>
+ <dc:creator>johne</dc:creator>
+ <guid isPermaLink="false">180 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/tips-and-tricks-legacy-sites#comments</comments>
+</item>
+<item>
+ <title>What Tony Dungy Taught Me About Working With Drupal</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/what-tony-dungy-taught-me-about-working-drupal</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;“Champions don’t do extraordinary things. They do ordinary things, but they do them without thinking, too fast for the other team to react. They follow the habits they’ve learned.” - Tony Dungy&lt;/p&gt;
+&lt;p&gt;In Charles Duhigg&#039;s book, &quot;The Power of Habit”, he recounts the tale of Tony Dungy taking over the subpar Tampa Bay Bucaneers, and how his coaching style led not only the Bucaneers but also the Colts to winning records and his teams to ten straight playoff appearances. Inherit in Dungy&#039;s coaching style was a focus on limiting decision-making situations and instead relying on instinct and habits to guide players to success. &lt;/p&gt;
+&lt;p&gt;The same mentality can be extrapolated to the process of web development. In this talk, I&#039;ll discuss hypothetical, typical experiences we all face at some time as web developers and the thought process that goes behind how we nagivate through those experiences. Do we rely on old habits? Are those habits good habits? Have we even ever thought of how habits may be affecting how we work?&lt;/p&gt;
+&lt;p&gt;Let&#039;s get meta together! In addition to talking about habits and habit formation, I&#039;ll draw on my social psychology background (finally found a use for my original degree!), decision trees, and how we can use these tools to create processes that help expert and novice Drupalers alike better work more efficiently with Drupal.  &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/afinnarn&quot;&gt;afinnarn&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 21 Apr 2015 19:42:47 +0000</pubDate>
+ <dc:creator>afinnarn</dc:creator>
+ <guid isPermaLink="false">150 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/what-tony-dungy-taught-me-about-working-drupal#comments</comments>
+</item>
+<item>
+ <title>Start Successfully; Install Drupal Easily &amp; Quickly</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/start-successfully-install-drupal-easily-quickly</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 101&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;This will be the in-person version of my &lt;a href=&quot;https://www.udemy.com/getting-started-with-drupal-for-total-beginners/?couponCode=DCCOSessionSubmit&quot;&gt;Udemy class&lt;/a&gt;, tailored to fit within 45 minutes and prepared for the possiblity that there won&#039;t be any wi-fi access.&lt;/p&gt;
+&lt;p&gt;If you want to learn how to &quot;do Drupal&quot; then you first need to install it someplace. This session will show you five different options for installing Drupal to make sure that you can find one that suits your needs perfectly. As time permits, the session will also cover some important things a person new to Drupal should also make sure to do to get started on the path to Drupal mastery.&lt;/p&gt;
+&lt;p&gt;I will be making free coupon codes available for all DCCO attendees, whether or not they attend this session so that people can go through the course at their own pace.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.teachyourselfdrupal.org/dcco15&quot; target=&quot;_blank&quot;&gt;Access the free coupon&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/vegantriathlete-0&quot;&gt;vegantriathlete&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 06 Apr 2015 22:24:27 +0000</pubDate>
+ <dc:creator>vegantriathlete</dc:creator>
+ <guid isPermaLink="false">140 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/start-successfully-install-drupal-easily-quickly#comments</comments>
+</item>
+</channel>
+</rss>

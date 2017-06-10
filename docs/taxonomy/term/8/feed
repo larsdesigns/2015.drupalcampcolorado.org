@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Business and Open Source</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/8</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>TAMING THE PROJECT, AN AGILE APPROACH</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/taming-project-agile-approach</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Managing projects can be confusing and chaotic. Waterfall can help you define a project up front, but there is no such thing as a fixed scope. This is especially true in the world of digital experiences. Cowboy and Extreme programming can scare clients. It can lead to miscommunication. It does not have to be this way. Project management starts from initial client contracting right through to delivery of a system and support of that project. Effective project managers have made a science of mitigating risk, thrilling clients, managing budgets, and keeping projects on time. This session will draw on those arts.&lt;/p&gt;
+&lt;p&gt;We will talk about:&lt;/p&gt;
+&lt;p&gt;- How to embrace Agile&lt;br /&gt;
+	- Sprints can minimize risk and maximize client satisfaction&lt;br /&gt;
+	- Agile Scrum does not mean do not plan, it means plan smarter&lt;br /&gt;
+	- How to make sprints work in a services company&lt;br /&gt;
+	- How Epics, Stories, Tasks, and Pointing can lead to better results&lt;/p&gt;
+&lt;p&gt;Project management requires a blend of techniques and tools to effectively shepherd projects from ideation to release. We&#039;ll explore and discuss different tools that can help make your project successful. Lets get together and explore how a services company can effectively use the Agile Scrum Methodology from Epics, to Stories, to tasks, timeboxes, and more.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/matthews-0&quot;&gt;MatthewS&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 23 May 2015 02:48:24 +0000</pubDate>
+ <dc:creator>MatthewS</dc:creator>
+ <guid isPermaLink="false">188 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/taming-project-agile-approach#comments</comments>
+</item>
+<item>
+ <title>Building a new Drupal-based SaaS product - tales from the front lines</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/building-new-drupal-based-saas-product-tales-front-lines</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Slides: &lt;a href=&quot;https://drive.google.com/file/d/0ByoZ9heWjQSgUng0UEQ3bGR6VTg/view?usp=sharing&quot;&gt;https://drive.google.com/file/d/0ByoZ9heWjQSgUng0UEQ3bGR6VTg/view?usp=sh...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;I&#039;ll take you behind the scenes of a Drupal-based SaaS product company and show the good, the bad and the downright ugly.&lt;/p&gt;
+&lt;p&gt;The startup I&#039;m co-founding, roomify, provides solutions for online bookings for all markets, with an initial focus on travel.&lt;/p&gt;
+&lt;p&gt;I will talk about:&lt;/p&gt;
+&lt;p&gt;1. How we build and manage the Drupal distributions that are the core of our products.&lt;/p&gt;
+&lt;p&gt;2. How we develop modules and make decisions about what features to focus on next.&lt;/p&gt;
+&lt;p&gt;3. How and why we decided to make our products completely open-source.&lt;/p&gt;
+&lt;p&gt;4. How we keep the issue queues of our modules sane.&lt;/p&gt;
+&lt;p&gt;5. How we deploy our products for clients, collect payments and keep everyone happy.&lt;/p&gt;
+&lt;p&gt;6. How we still manage to get some sleep at night (occasionally)&lt;/p&gt;
+&lt;p&gt;If you are thinking of building a Drupal-based SaaS product, this session is for you. It will be a no-holds barred exposé of all the challenges we are facing.&lt;/p&gt;
+&lt;p&gt;If you make it through this session and still want to build a product, you should - you clearly are not thinking rationally and thus have the perfect mindset to become an entrepreneur!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/acrollet-0&quot;&gt;acrollet&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 21:58:58 +0000</pubDate>
+ <dc:creator>acrollet</dc:creator>
+ <guid isPermaLink="false">186 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/building-new-drupal-based-saas-product-tales-front-lines#comments</comments>
+</item>
+<item>
+ <title>Colorado.gov Adopts Drupal, Learns Some Things</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/coloradogov-adopts-drupal-learns-some-things</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;In 2013, Colorado.gov’s managers at Colorado Interactive decided to move the state’s content infrastructure to Drupal. What ensued were several projects, each more ambitious in nature, using Drupal to empower hundreds of state and local government entities in Colorado. With both big wins and epic fails throughout the process, the common thread leading through it all is the same one that powers Drupal itself: &lt;em&gt;Come for the software, stay for the community.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This talk will share some fun stories of success and struggle from Colorado.gov’s Drupal adventures, focusing on how the team seeks to improve its Drupal capabilities over time and best support Colorado’s needs in the process.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6kATx5zdUJo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/zekeweeks-0&quot;&gt;zekeweeks&lt;/a&gt;&lt;/div&gt;&lt;div &gt;&lt;a href=&quot;/users/themjw-0&quot;&gt;The_MJW&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 22:51:03 +0000</pubDate>
+ <dc:creator>zekeweeks</dc:creator>
+ <guid isPermaLink="false">177 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/coloradogov-adopts-drupal-learns-some-things#comments</comments>
+</item>
+<item>
+ <title>What to measure and why to obtain the best customer satisfaction in Drupal support</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/what-measure-and-why-obtain-best-customer-satisfaction-drupal-support</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 16:00-16:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Not everything that can be counted counts, and not everything that counts can be counted. - Albert Einstein, Physicist&lt;/p&gt;
+&lt;p&gt;This is a business session that will reflect on our drive towards understanding what should be measured and why as a tool to improving our financial performance and client satisfaction. We start at looking at many different ways to measure project progress, support SLAs developer performance, team performance, company performance and client satisfaction. We will discuss the many different metrics, how they are used and what are their outcomes. No measures will be spared, progress, efficiency, effectiveness, response time, resolution, costs, productivity, utilization, workload, employee satisfaction, customer satisfaction. We will examine the many possibilities of measurement and the measures we find valuable.&lt;/p&gt;
+&lt;p&gt;What you will learn:&lt;br /&gt;
+	- different ways to measure company performance&lt;br /&gt;
+	- different ways to measure support &amp;amp; operations&lt;br /&gt;
+	- ways to measure customer satisfaction&lt;/p&gt;
+
+&lt;p&gt;Who should attend:&lt;br /&gt;
+	- managers&lt;br /&gt;
+	- project managers&lt;br /&gt;
+	- team leads&lt;br /&gt;
+	- developers &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/akucharski&quot;&gt;akucharski&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 20:47:43 +0000</pubDate>
+ <dc:creator>a_rory_borealis</dc:creator>
+ <guid isPermaLink="false">175 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/what-measure-and-why-obtain-best-customer-satisfaction-drupal-support#comments</comments>
+</item>
+<item>
+ <title>Estimation - The Art and Science</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/estimation-art-and-science</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;*** Presented at Drupalcon LA 2015 to a full house of estimation enthusiasts.  This session will include parts of that presentation and expand even further upon those concepts.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Why as a software industry are we struggling so often with hitting our estimates?  Does the problems reside in the way we are estimating a project or the way we are executing them?  Through 30+ years of modern software development what have we learned and what are we continuing to struggle with today?  &lt;/p&gt;
+&lt;p&gt;In this session I would like to discuss not only the problems associated with estimation and how to avoid them, but more importantly how we can plan for them, turning our estimation process into not only an art, but a science. Well cover how to sell your estimate internally, and arm you with the methodologies to support your numbers, and avoid the pitfalls that create projects that go 100% overbudget.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is the problem with software estimation?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;The morale, metrics and realities we have learned over time&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;The results of our decades worth of estimation error&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Avoiding Risk&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Project entry point of sale&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Risk association with point of sale&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Products in the front, estimations in the back&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Getting out of jail&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Other lessons learned&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;The Elusive Discovery phase&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;How to estimate a discovery&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to sell a discovery&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Planning for Risk &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Estimation types&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Gut - An art form&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Comparables - An art/science&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Factors/formula - A science&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Contingency&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Rating systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Formulas&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Granularity&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x4hFhPf9AdY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/jsnoles49&quot;&gt;jsnoles49&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 19:54:15 +0000</pubDate>
+ <dc:creator>jsnoles49</dc:creator>
+ <guid isPermaLink="false">174 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/estimation-art-and-science#comments</comments>
+</item>
+<item>
+ <title>Using Slack and Bitbucket to work together while apart</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/using-slack-and-bitbucket-work-together-while-apart</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 16:00-16:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Is your company interested in telecommuting, but is yet to take the plunge? Are you already trying it out, but want to know more?&lt;/p&gt;
+&lt;p&gt;Mediacurrent is an almost entirely remote company - a handful work in the office in Alpharetta, Georgia, but the rest of us work across the country in four time zones, and in over a dozen states. Our main tools for accomplishing this? Slack, Bitbucket, and some unique cultural tweaks.&lt;/p&gt;
+&lt;p&gt;From inline gifs to automated replies to certain events, I&#039;ll talk about how we use these tools to communicate and collaborate from hundreds or even thousands of miles away.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/alexdmccabe&quot;&gt;alexdmccabe&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 14:39:08 +0000</pubDate>
+ <dc:creator>alexdmccabe</dc:creator>
+ <guid isPermaLink="false">171 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/using-slack-and-bitbucket-work-together-while-apart#comments</comments>
+</item>
+<item>
+ <title>Who Manages the Content Managers?</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/who-manages-content-managers</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 203&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;We trained a wide variety of Content Managers from different fields and differing levels of technical knowledge--Detectives, Engineers, Accountants, GIS Analysts, and Interns--when we moved to ColoradoSprings.gov and Drupal as a CMS this past year.&lt;/p&gt;
+&lt;p&gt;You can&#039;t run a large website without knowledgable Content Managers. They&#039;re the ones who, if trained properly, will keep your site going for years and years. If they get the right training, they&#039;ll generally start teaching each other and the knowledge will become common instead of specialized.&lt;/p&gt;
+&lt;p&gt;The problem is that these employees have 40+ hours a week already. So when a manager tosses their department&#039;s web content on them it takes time to learn and it&#039;s generally hard for them to get away from their regular work.&lt;/p&gt;
+&lt;p&gt;In this presentation we&#039;ll explain what our strategy was for getting all of our content owners up and running on Drupal. We&#039;ll explain how we approached this training and what we found that worked. Also, we&#039;ll report on one full year of running of a Drupal website with content managers from over 30 different departments.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/omorrill-0&quot;&gt;omorrill&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 19 May 2015 00:12:50 +0000</pubDate>
+ <dc:creator>omorrill</dc:creator>
+ <guid isPermaLink="false">161 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/who-manages-content-managers#comments</comments>
+</item>
+<item>
+ <title>How to Sell Drupal </title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/how-sell-drupal</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;As we near the release of Drupal 8, there has never been a more exciting and significant time in the history of Drupal. The growth which it has seen over recent years is tremedous, and it appears that trend will continue (hopefully) over the years to come. As the Director of Business Development for an agency that specializes in Drupal-based solutions, I feel as though my job has only become easier as Drupal has carved out such a significant niche in the marketplace. The goal of this session is to highlight how I begin working with prospective clients and communicate the benefits of Drupal. I will cover some of the trends that I have seen that enable businesses to understand the extreme advantages of the platform. &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/hsliss&quot;&gt;hsliss&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 22 Apr 2015 19:54:50 +0000</pubDate>
+ <dc:creator>hsliss</dc:creator>
+ <guid isPermaLink="false">155 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/how-sell-drupal#comments</comments>
+</item>
+<item>
+ <title>Drupal - More than Just Content Management</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/drupal-more-just-content-management</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;In this session we will look at other business cases for using Drupal other than generic content management.  &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		What can Drupal do?&lt;/li&gt;
+&lt;li&gt;
+		Integrating Drupal with other tools&lt;/li&gt;
+&lt;li&gt;
+		Why conider Drupal as a platform for building software. &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;We will look at real world situations where building an application in Drupal make sense including Code Consultants International&#039;s SaaS product.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/skessler&quot;&gt;Skessler&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 22 Apr 2015 16:47:07 +0000</pubDate>
+ <dc:creator>Skessler</dc:creator>
+ <guid isPermaLink="false">153 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/drupal-more-just-content-management#comments</comments>
+</item>
+<item>
+ <title>Digital Analytics 201: Why Raw Numbers Don&#039;t Tell the Whole Story</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/digital-analytics-201-why-raw-numbers-dont-tell-whole-story</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 15:00-15:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;div&gt;
+	Digital Analytics 201: Why Raw Numbers Don&#039;t Tell the Whole Story&lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	In this session, I&#039;ll talk about some of the basics of data science for the web. I want to share some of my experience and lessons I have learned on the front lines of working with customer-facing applications for [a large B2C company].&lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	The raw numbers we get from digital analytics tools like Google Analytics, KissMetrics, Adobe Analytics, Adwords, etc. are often treated as “The Truth” in many organisations. But they only tell us part of the story. When a metric is up by a few points, how do we know it&#039;s &quot;improved&quot;? How do we know it “matters”? Do we declare victory for our new marketing because we see a few hundred more pageviews? Or should we be looking for our next content strategy?&lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	When you come to this session, be prepared to think about statistics, but don&#039;t worry if you&#039;ve never seen this kind of math before, I did all the calculator stuff for you already.&lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	By the end of it, I want to:&lt;/div&gt;
+&lt;ul&gt;&lt;li&gt;
+		give you a basic understanding of statistical significance and standard deviation and why they are important&lt;/li&gt;
+&lt;li&gt;
+		show you how to think about measurement and defining &quot;success&quot; or &quot;failure&quot;&lt;/li&gt;
+&lt;li&gt;
+		show you split testing and multivariate testing, explain how they&#039;re different, and why they&#039;re important to understanding your outcomes&lt;/li&gt;
+&lt;/ul&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/egswRIfODJA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/lindsayo-0&quot;&gt;lindsayo&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 13 Apr 2015 15:57:17 +0000</pubDate>
+ <dc:creator>lindsayo</dc:creator>
+ <guid isPermaLink="false">145 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/digital-analytics-201-why-raw-numbers-dont-tell-whole-story#comments</comments>
+</item>
+</channel>
+</rss>

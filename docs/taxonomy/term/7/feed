@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Front End</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/7</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Visual/CSS Regression Testing -- Catching the &quot;unintended consequences&quot; of modifying your theme</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/visualcss-regression-testing-catching-unintended-consequences-modifying-your-theme</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Have you ever spent hours poring over a web application when making changes to the theme, looking for the consequences of CSS style rules that are too broad?  Ever made changes to a client&#039;s website, only to find out the theming for the newly designed front page totally screwed up the formatting on the product pricing page -- after you deployed the changes?&lt;/p&gt;
+&lt;p&gt;You are not alone.&lt;/p&gt;
+&lt;p&gt;Manual testing of user interfaces for visual and style components is a tedious and time consuming process, and by very nature introduces the human error aspect to web application QA review.  While tools such as Behat have made testing certain aspects of the user interface less tedious, and have removed some of the &quot;human error&quot; aspect from the process, Behat doesn&#039;t provide the capability of testing the &quot;layout&quot; of site changes for those unintended consequences of misapplied HTML, CSS or Javascript.&lt;/p&gt;
+&lt;p&gt;Enter PhantomCSS -- a framework for conducting automated visual regression testing for websites.  In this session we&#039;ll cover:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		What is PhantomCSS?&lt;/li&gt;
+&lt;li&gt;
+		System Requirements for PhantomCSS&lt;/li&gt;
+&lt;li&gt;
+		Skillset Requirements to write test suites for PhantomCSS&lt;/li&gt;
+&lt;li&gt;
+		How can I use PhantomCSS to improve my QA process?&lt;/li&gt;
+&lt;li&gt;
+		Live demonstration of a PhantomCSS test suite, including a review of the output of test results&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Slides from presentation:  &lt;a href=&quot;http://www.slideshare.net/lhridley/visualcss-regression-testing-catching-the-unintended-consequences-of-modifying-your-theme&quot;&gt;http://www.slideshare.net/lhridley/visualcss-regression-testing-catching...&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5fKI6cffNeQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/lhridley&quot;&gt;lhridley&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 16:58:06 +0000</pubDate>
+ <dc:creator>lhridley</dc:creator>
+ <guid isPermaLink="false">184 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/visualcss-regression-testing-catching-unintended-consequences-modifying-your-theme#comments</comments>
+</item>
+<item>
+ <title>Fields of Dreams: Using the Field API</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/fields-dreams-using-field-api</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 101&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;div&gt;
+	The Field API is spectacular. It is not only awesome for developers who are looking to define a custom field, but for those that are looking to display content in a certain way. When coupled with the Field Group API, you are able to unlock the strengths of Thor on your content types.&lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	This talk will look at how to use the Field API and Field Group API to divorce yourself from preprocessing and UI frustrations. The talk will start at a simple base of writing custom field group formatters to standardize field wrappers and structural elements. Then move to custom field formatters to handle the custom display of data. The talk will wrap up with real world examples of using custom field formatters. &lt;/div&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pezh3gGyzHY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/timodwhit-0&quot;&gt;timodwhit&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 15:02:13 +0000</pubDate>
+ <dc:creator>timodwhit</dc:creator>
+ <guid isPermaLink="false">181 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/fields-dreams-using-field-api#comments</comments>
+</item>
+<item>
+ <title>The Flavors of SVG</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/flavors-svg</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 16:00-16:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;There is so much more to Scalable Vector Graphics (SVG) than resolution independence. Unlike a static bitmap, SVG can be animated; styled with CSS; even generated dynamically from Drupal content.  &lt;/p&gt;
+&lt;p&gt;In this session we&#039;ll look at some of the more interesting applications of SVG. We&#039;ll focus on the different ways of implementing SVG on your Drupal site; the pros and cons of each and why you might choose one approach over another.  Using modern tools and practical examples, this session is intended to inspire both designers and developers to make more dynamic interfaces with SVG.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/doCeHcyIxz8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/pixelwhip&quot;&gt;pixelwhip&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 14:26:32 +0000</pubDate>
+ <dc:creator>pixelwhip</dc:creator>
+ <guid isPermaLink="false">170 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/flavors-svg#comments</comments>
+</item>
+<item>
+ <title>Cat gifs. Also front-end build process.</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/cat-gifs-also-front-end-build-process</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Today’s front-end workflow benefits greatly from familiarity with a few key languages and libraries - this is especially true as we move closer to a D8 release date. The front-enders at Chapter Three came together to discuss standardizing projects; a goal that had raised much contention in the past. After several rounds of hand-to-hand combat, we were able to come together and produce a front-end build process that has increased productivity, decreased friction, and helped with posterity and team interoperability. Topics include preprocessor languages, frameworks, asset architecture, task-runners, Drupal best practices, swear words, and complaining. Come learn what the hell we’re talking about and bask in the glow of our curated cat-gifs.&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	Drew Bolles - @bollskis&lt;/p&gt;
+&lt;p&gt;	I first started building sites back when GeoCities was all the rage, spending my nights as a kid learning HTML and CSS. Fast-forward a few years, and I&#039;m still viewing sources and reading A List Apart articles. I&#039;m passionate about developing scalable, reusable architectures that not only look great, but are built with good semantics and performance as a feature.&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	Casey Wight - @cwightrun&lt;/p&gt;
+&lt;p&gt;	With a background in design, development and Drupal, I bring a diverse set of skills to the Chapter Three team. My initial jump into the web-development forway began in the dark days of tables and frames. I’ve performed many roles over the years but my main focus has always been getting my hands dirty in code. Now I’m designing and developing flexible and scalable Drupal front-end systems.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/bollskis&quot;&gt;bollskis&lt;/a&gt;&lt;/div&gt;&lt;div &gt;&lt;a href=&quot;/users/siegeaw&quot;&gt;SiegeAW&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 20 Apr 2015 20:11:05 +0000</pubDate>
+ <dc:creator>SiegeAW</dc:creator>
+ <guid isPermaLink="false">149 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/cat-gifs-also-front-end-build-process#comments</comments>
+</item>
+<item>
+ <title>Making Syfy.com&#039;s Front-end Out of this World</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/making-syfycoms-front-end-out-world</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;The front-end requirements for modern websites are becoming increasingly complex. They need to be responsive, often have complex scroll interactions, involve many layers in their toolchains, and most of all they need to be fast on your desktop and on your phone. &lt;/p&gt;
+&lt;p&gt;The redevelopment of &lt;a href=&quot;http://Syfy.com&quot;&gt;Syfy.com&lt;/a&gt; in Drupal presented unique challenges that required us to pull out all the stops in order to deliver a beautiful, super fast site with a front-end architecture that makes it easy to adapt to the future.&lt;/p&gt;
+&lt;p&gt;Through the use of various benchmarking and debugging tools and a deep understanding of how browsers render HTML, CSS, and JS, we were able to optimize the overall performance of the scroll interactions. This session will look at how your browser renders content and where the potential bottlenecks are, the tools available to track down performance issues, and most importantly how to solve those issues when you find them.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DobJDolljK0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/mherchel&quot;&gt;mherchel&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 20 Apr 2015 19:56:55 +0000</pubDate>
+ <dc:creator>mherchel</dc:creator>
+ <guid isPermaLink="false">148 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/making-syfycoms-front-end-out-world#comments</comments>
+</item>
+<item>
+ <title>Theming for Performance</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/theming-performance</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Some of the most aesthetically pleasing sites are also the slowest, but you don&#039;t have to limit yourself to square corners and solid background colors to speed up your Drupal site. There are a number of tips and simple techniques you can adopt in your current process to get both performance and great design in future projects.&lt;/p&gt;
+&lt;p&gt;	THE PITCH&lt;/p&gt;
+&lt;p&gt;While clear, many somehow forget the simple equation that:&lt;/p&gt;
+&lt;p&gt;Great design + fast loading pages + (great content of course) = more traffic.&lt;/p&gt;
+&lt;p&gt;	THE STATS&lt;/p&gt;
+&lt;p&gt;The presentation will start with results from a few sites, after improvements were made, that will give you the extra incentive to employ the techniques and tips described throughout the rest of the presentation.&lt;/p&gt;
+&lt;p&gt;	THE FOCUS&lt;/p&gt;
+&lt;p&gt;How to build super fast Drupal sites will be core to the presentation, but will not be limited as many are universal to all Web CMS platforms. You will come away from the presentation with a broader understanding of current performance improving trends no matter what systems you are working with.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/mdorman&quot;&gt;mdorman&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 15 Apr 2015 19:46:39 +0000</pubDate>
+ <dc:creator>mdorman</dc:creator>
+ <guid isPermaLink="false">147 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/theming-performance#comments</comments>
+</item>
+</channel>
+</rss>

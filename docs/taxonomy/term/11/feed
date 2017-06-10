@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Beginner</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/11</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Defining Design</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/defining-design</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Whether it’s designing in the browser, a prototyping tool, or heck, even a photography application, design has to start somewhere. But what’s the best approach? The sooner we let go of our tools and realize that the process is about the outcomes, the sooner we can make meaningful progress designing websites.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;The time of Designers handing off full page comps is long gone. As front-end development shifts to more modular approaches, how does design change to better collaborate in this new ecosystem?&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;At Aten, we&#039;ve been designing websites since before CSS-based approaches were a thing. Along the way we&#039;ve adapted to the constant changes by staying nimble and revisiting our approach to design. This session aims to tackle the role design plays throughout the lifecycle of a project, big or small.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;A few questions this session will answer:&lt;/p&gt;
+&lt;ul&gt;&lt;li dir=&quot;ltr&quot;&gt;
+&lt;p dir=&quot;ltr&quot;&gt;What does a modern design process look like?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;
+&lt;p dir=&quot;ltr&quot;&gt;What are the outcomes of this process?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;
+&lt;p dir=&quot;ltr&quot;&gt;What tools exist to make this process easier?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;
+&lt;p dir=&quot;ltr&quot;&gt;How can teams collaborate on designing beautiful, usable websites?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;
+		How dead is Photoshop?&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/kenwoodworth&quot;&gt;kenwoodworth&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Design and Information Architecture&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 28 May 2015 02:18:28 +0000</pubDate>
+ <dc:creator>kenwoodworth</dc:creator>
+ <guid isPermaLink="false">194 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/defining-design#comments</comments>
+</item>
+<item>
+ <title>TAMING THE PROJECT, AN AGILE APPROACH</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/taming-project-agile-approach</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Managing projects can be confusing and chaotic. Waterfall can help you define a project up front, but there is no such thing as a fixed scope. This is especially true in the world of digital experiences. Cowboy and Extreme programming can scare clients. It can lead to miscommunication. It does not have to be this way. Project management starts from initial client contracting right through to delivery of a system and support of that project. Effective project managers have made a science of mitigating risk, thrilling clients, managing budgets, and keeping projects on time. This session will draw on those arts.&lt;/p&gt;
+&lt;p&gt;We will talk about:&lt;/p&gt;
+&lt;p&gt;- How to embrace Agile&lt;br /&gt;
+	- Sprints can minimize risk and maximize client satisfaction&lt;br /&gt;
+	- Agile Scrum does not mean do not plan, it means plan smarter&lt;br /&gt;
+	- How to make sprints work in a services company&lt;br /&gt;
+	- How Epics, Stories, Tasks, and Pointing can lead to better results&lt;/p&gt;
+&lt;p&gt;Project management requires a blend of techniques and tools to effectively shepherd projects from ideation to release. We&#039;ll explore and discuss different tools that can help make your project successful. Lets get together and explore how a services company can effectively use the Agile Scrum Methodology from Epics, to Stories, to tasks, timeboxes, and more.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/matthews-0&quot;&gt;MatthewS&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 23 May 2015 02:48:24 +0000</pubDate>
+ <dc:creator>MatthewS</dc:creator>
+ <guid isPermaLink="false">188 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/taming-project-agile-approach#comments</comments>
+</item>
+<item>
+ <title>Design Is Not About Handing Off, It&#039;s About Holding Hands</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/design-not-about-handing-its-about-holding-hands</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 16:00-16:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Where should you draw the line between design and development? &lt;b&gt;You shouldn&#039;t!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In this session we will talk about how designers and developers should collaborate on a project from start to finish. We will explore what a designer sees vs what a developer sees in project files, wireframes and research, as well as, the balance between communication and documentation.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bUbBlkvbqsA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/e3creatives&quot;&gt;E3Creatives&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Design and Information Architecture&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 23:09:01 +0000</pubDate>
+ <dc:creator>E3Creatives</dc:creator>
+ <guid isPermaLink="false">187 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/design-not-about-handing-its-about-holding-hands#comments</comments>
+</item>
+<item>
+ <title>Building a new Drupal-based SaaS product - tales from the front lines</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/building-new-drupal-based-saas-product-tales-front-lines</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Slides: &lt;a href=&quot;https://drive.google.com/file/d/0ByoZ9heWjQSgUng0UEQ3bGR6VTg/view?usp=sharing&quot;&gt;https://drive.google.com/file/d/0ByoZ9heWjQSgUng0UEQ3bGR6VTg/view?usp=sh...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;I&#039;ll take you behind the scenes of a Drupal-based SaaS product company and show the good, the bad and the downright ugly.&lt;/p&gt;
+&lt;p&gt;The startup I&#039;m co-founding, roomify, provides solutions for online bookings for all markets, with an initial focus on travel.&lt;/p&gt;
+&lt;p&gt;I will talk about:&lt;/p&gt;
+&lt;p&gt;1. How we build and manage the Drupal distributions that are the core of our products.&lt;/p&gt;
+&lt;p&gt;2. How we develop modules and make decisions about what features to focus on next.&lt;/p&gt;
+&lt;p&gt;3. How and why we decided to make our products completely open-source.&lt;/p&gt;
+&lt;p&gt;4. How we keep the issue queues of our modules sane.&lt;/p&gt;
+&lt;p&gt;5. How we deploy our products for clients, collect payments and keep everyone happy.&lt;/p&gt;
+&lt;p&gt;6. How we still manage to get some sleep at night (occasionally)&lt;/p&gt;
+&lt;p&gt;If you are thinking of building a Drupal-based SaaS product, this session is for you. It will be a no-holds barred exposé of all the challenges we are facing.&lt;/p&gt;
+&lt;p&gt;If you make it through this session and still want to build a product, you should - you clearly are not thinking rationally and thus have the perfect mindset to become an entrepreneur!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/acrollet-0&quot;&gt;acrollet&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 21:58:58 +0000</pubDate>
+ <dc:creator>acrollet</dc:creator>
+ <guid isPermaLink="false">186 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/building-new-drupal-based-saas-product-tales-front-lines#comments</comments>
+</item>
+<item>
+ <title>Translate in Drupal 8: A New Era in Translation Has Begun</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/translate-drupal-8-new-era-translation-has-begun</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Drupal 8&#039;s new and improved multilingual tools open a world of translation capabilities for users of the Lingotek Translation contribution module for Drupal. The majority of Drupal 7&#039;s contributed multilingual modules have been replaced with just a few Drupal core modules - making D8 more multilingual out of the box. Lingotek builds on top of that increased functionality to offer users a complete translation and localization experience. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;For D8, all content entity types can now be translated using Lingotek&#039;s automated, cloud-based translation management system (TMS), and site administrators will receive the same superior support from Lingotek&#039;s team of translation experts.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;In this presentation, you will learn about:&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;- the changes to the multilingual landscape in Drupal 8, &lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;- updates to the Lingotek Translation module for D8, &lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;- how to manage translation for projects that want to charge ahead with D8, &lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;- and how you can leverage Lingotek&#039;s services to keep your users satisfied.&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/ssorenson13&quot;&gt;ssorenson13&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 16:04:36 +0000</pubDate>
+ <dc:creator>lvandenberg</dc:creator>
+ <guid isPermaLink="false">182 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/translate-drupal-8-new-era-translation-has-begun#comments</comments>
+</item>
+<item>
+ <title>Tips and Tricks for Legacy Sites</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/tips-and-tricks-legacy-sites</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;It happens to everyone. We can&#039;t only build new sites from scratch. Legacy might mean a site built on Drupal 6 filled with out of date modules, or it could be something recent where the original developers moved on. So, how do I change this one line? What&#039;s placing (or not placing) that block on the page? Making changes in either case to an unfamiliar site can be daunting. But, with a few tips and tricks the process can involve slightly less hair loss. I&#039;ll provide examples from a number of the sites I&#039;ve worked on over the last few years.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/johne-0&quot;&gt;johne&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Beginner&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 04:17:36 +0000</pubDate>
+ <dc:creator>johne</dc:creator>
+ <guid isPermaLink="false">180 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/tips-and-tricks-legacy-sites#comments</comments>
+</item>
+<item>
+ <title>Distributions:  Learning from Others</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/distributions-learning-others</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 15:00-15:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drupal comes with some assembly required.  Drupal core itself is pretty bare bones.  Thanks to several thousand contributed modules, virtually any functionality is possible.  Distributions take those modules, combine them with configuration to serve a specific use case.  There are almost 500 distributions on drupal.org, so it is possible there’s one that might meet your needs, or a lot of them.&lt;/p&gt;
+&lt;p&gt;Distributions are also often big, enabling over 100 modules, and notoriously hard to update.&lt;/p&gt;
+&lt;p&gt;Even if you don’t use a distribution, distributions have another, useful, purpose—you can learn from them.&lt;/p&gt;
+&lt;p&gt;Join me as I perform autopsies of three distributions with similar goals—enabling rapid development of governmental websites:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		aGov&lt;/li&gt;
+&lt;li&gt;
+		OpenPublic&lt;/li&gt;
+&lt;li&gt;
+		WetKit&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Like a medical examiner, we’ll dissect the distributions and try to understand how and why they were constructed.  We’ll also look at how these distributions have evolved their approach as they have gained experience using the distribution.&lt;/p&gt;
+&lt;p&gt;Among the things we’ll cover are:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Modules used&lt;/li&gt;
+&lt;li&gt;
+		Content types&lt;/li&gt;
+&lt;li&gt;
+		Views&lt;/li&gt;
+&lt;li&gt;
+		Features (how components are being modularized)&lt;/li&gt;
+&lt;li&gt;
+		Initialization code&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/gregg-marshall-0&quot;&gt;Gregg Marshall&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 03:44:01 +0000</pubDate>
+ <dc:creator>Gregg Marshall</dc:creator>
+ <guid isPermaLink="false">179 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/distributions-learning-others#comments</comments>
+</item>
+<item>
+ <title>Building Colorado.gov on D7</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/building-coloradogov-d7</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is an overview of how the new colorado.gov site was built. I&#039;d like to cover the modules that were used such as Beans, Panels, Context etc.... and how they played a role in the site architecture of the new portal. &lt;/p&gt;
+&lt;p&gt;Site builders will benefit the most from this session as we:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Explore the modules put to use.&lt;/li&gt;
+&lt;li&gt;
+		Go over site architecture.&lt;/li&gt;
+&lt;li&gt;
+		Discuss the Author experience.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The Modules we talk about (for the most part):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Panels (When and why)&lt;/li&gt;
+&lt;li&gt;
+		Views (Of course!)&lt;/li&gt;
+&lt;li&gt;
+		Context (Dive into our conditional block placement)&lt;/li&gt;
+&lt;li&gt;
+		Beans (Custom blocks made easy)&lt;/li&gt;
+&lt;li&gt;
+		Leaflet More Maps&lt;/li&gt;
+&lt;li&gt;
+		Feeds (Importing content from our other sites)&lt;/li&gt;
+&lt;li&gt;
+		Features and Drush&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/alne1147-0&quot;&gt;alne1147&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 01:58:53 +0000</pubDate>
+ <dc:creator>alne1147</dc:creator>
+ <guid isPermaLink="false">178 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/building-coloradogov-d7#comments</comments>
+</item>
+<item>
+ <title>Colorado.gov Adopts Drupal, Learns Some Things</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/coloradogov-adopts-drupal-learns-some-things</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;In 2013, Colorado.gov’s managers at Colorado Interactive decided to move the state’s content infrastructure to Drupal. What ensued were several projects, each more ambitious in nature, using Drupal to empower hundreds of state and local government entities in Colorado. With both big wins and epic fails throughout the process, the common thread leading through it all is the same one that powers Drupal itself: &lt;em&gt;Come for the software, stay for the community.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This talk will share some fun stories of success and struggle from Colorado.gov’s Drupal adventures, focusing on how the team seeks to improve its Drupal capabilities over time and best support Colorado’s needs in the process.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6kATx5zdUJo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/zekeweeks-0&quot;&gt;zekeweeks&lt;/a&gt;&lt;/div&gt;&lt;div &gt;&lt;a href=&quot;/users/themjw-0&quot;&gt;The_MJW&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 22:51:03 +0000</pubDate>
+ <dc:creator>zekeweeks</dc:creator>
+ <guid isPermaLink="false">177 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/coloradogov-adopts-drupal-learns-some-things#comments</comments>
+</item>
+<item>
+ <title>ELK in a Box: Logs You Will Actually Look At</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/elk-box-logs-you-will-actually-look</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;WSOD happens, hopefully not in PROD... When things go wrong people start digging into log files, but which log do you need? Drupal, webserver, database, cache? And which entries matters in the thousands and thousands of lines?&lt;/p&gt;
+&lt;p&gt;This presentation will talk about collecting, aggregating, and presenting logs in a way that make you actually want to use them. The ELK (Elasticsearch, Logstash, and Kibana) stack has become a favorite for DevOps teams. We will talk about methods to move logs, how ingest log files using Logstash and how to visualize and search using Elasticsearch and Kibana.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/fullerja&quot;&gt;fullerja&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 16:03:12 +0000</pubDate>
+ <dc:creator>fullerja</dc:creator>
+ <guid isPermaLink="false">173 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/elk-box-logs-you-will-actually-look#comments</comments>
+</item>
+</channel>
+</rss>

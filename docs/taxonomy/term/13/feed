@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Advanced</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/13</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Advanced Drupal Security for Developers</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/advanced-drupal-security-developers</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Well well well. Let&#039;s look at Drupal Security for developers and themers.&lt;/p&gt;
+&lt;p&gt;First, we&#039;ll look at the most common security vulnerabilities that are found in Drupal. Then we&#039;ll look at actual ways to exploit those vulnerabilities (with sample exploits you can try out yourself!). Then we&#039;ll talke about the ways to fix vulnerabilities. Finally, we&#039;ll wrap up the session with some quick tips of management practices and modules to install to make your site more secure.&lt;/p&gt;
+&lt;p&gt;Specifically this will cover:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Cross Site Scripting - the attacker&#039;s version of Ajax&lt;/li&gt;
+&lt;li&gt;
+		Cross Site Request Forgeries - what was your intent?&lt;/li&gt;
+&lt;li&gt;
+		SQL Injection - Drupalgeddon, right?&lt;/li&gt;
+&lt;li&gt;
+		Access Bypass - do what you like, when you like&lt;/li&gt;
+&lt;li&gt;
+		My favorite security modules&lt;/li&gt;
+&lt;li&gt;
+		Some ideas on how to avoid getting exploited&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/greggles-0&quot;&gt;greggles&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 23 May 2015 04:17:01 +0000</pubDate>
+ <dc:creator>greggles</dc:creator>
+ <guid isPermaLink="false">190 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/advanced-drupal-security-developers#comments</comments>
+</item>
+<item>
+ <title>Making Syfy.com&#039;s Front-end Out of this World</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/making-syfycoms-front-end-out-world</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;The front-end requirements for modern websites are becoming increasingly complex. They need to be responsive, often have complex scroll interactions, involve many layers in their toolchains, and most of all they need to be fast on your desktop and on your phone. &lt;/p&gt;
+&lt;p&gt;The redevelopment of &lt;a href=&quot;http://Syfy.com&quot;&gt;Syfy.com&lt;/a&gt; in Drupal presented unique challenges that required us to pull out all the stops in order to deliver a beautiful, super fast site with a front-end architecture that makes it easy to adapt to the future.&lt;/p&gt;
+&lt;p&gt;Through the use of various benchmarking and debugging tools and a deep understanding of how browsers render HTML, CSS, and JS, we were able to optimize the overall performance of the scroll interactions. This session will look at how your browser renders content and where the potential bottlenecks are, the tools available to track down performance issues, and most importantly how to solve those issues when you find them.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DobJDolljK0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/mherchel&quot;&gt;mherchel&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 20 Apr 2015 19:56:55 +0000</pubDate>
+ <dc:creator>mherchel</dc:creator>
+ <guid isPermaLink="false">148 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/making-syfycoms-front-end-out-world#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Intermediate</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/12</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>DevOps 101: Cross Platform Drupal DevOps Training</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/training/devops-101-cross-platform-drupal-devops-training</link>
+ <description>&lt;div class=&quot;field field-name-commerce-price field-type-commerce-price field-label-inline clearfix&quot;&gt;&lt;div &gt;Price:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;$0.00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-register-for-training field-type-commerce-product-reference field-label-hidden&quot;&gt;&lt;div &gt;&lt;div &gt;&lt;form class=&quot;commerce-add-to-cart commerce-cart-add-to-cart-form-8&quot; action=&quot;/taxonomy/term/12/feed&quot; method=&quot;post&quot; id=&quot;commerce-cart-add-to-cart-form-8&quot; accept-charset=&quot;UTF-8&quot;&gt;&lt;div&gt;&lt;input disabled=&quot;disabled&quot; type=&quot;hidden&quot; name=&quot;product_id&quot; value=&quot;8&quot; /&gt;
+&lt;input disabled=&quot;disabled&quot; type=&quot;hidden&quot; name=&quot;form_build_id&quot; value=&quot;form-B9FvwhzJVYMnL_GtqH3BgP05CBF06TtfU8vmKIAwM9w&quot; /&gt;
+&lt;input disabled=&quot;disabled&quot; type=&quot;hidden&quot; name=&quot;form_id&quot; value=&quot;commerce_cart_add_to_cart_form_8&quot; /&gt;
+&lt;div disabled=&quot;disabled&quot; id=&quot;edit-line-item-fields&quot; class=&quot;form-wrapper&quot;&gt;&lt;/div&gt;&lt;input disabled=&quot;disabled&quot; type=&quot;hidden&quot; name=&quot;quantity&quot; value=&quot;1&quot; /&gt;
+&lt;input disabled=&quot;disabled&quot; type=&quot;submit&quot; id=&quot;edit-submit&quot; name=&quot;op&quot; value=&quot;Add to cart&quot; class=&quot;form-submit form-button-disabled&quot; /&gt;&lt;div class=&quot;dcco-url-textfield&quot;&gt;&lt;div class=&quot;form-item form-type-textfield form-item-dcco-url form-disabled&quot;&gt;
+  &lt;label class=&quot;form-item-label&quot; for=&quot;edit-dcco-url&quot;&gt;Leave this field blank &lt;/label&gt;
+ &lt;input autocomplete=&quot;off&quot; disabled=&quot;disabled&quot; type=&quot;text&quot; id=&quot;edit-dcco-url&quot; name=&quot;dcco-url&quot; value=&quot;&quot; size=&quot;20&quot; maxlength=&quot;128&quot; class=&quot;form-text&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/form&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div &gt;&lt;div &gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://dev-2015drupalcampcoloradoorg.pantheonsite.io/sites/default/files/styles/large/public/training/logos/logo_devPanel_new_3-1.jpg?itok=FRceAkYg&quot; width=&quot;480&quot; height=&quot;279&quot; alt=&quot;devPanel.com- DevOps 101&quot; title=&quot;devPanel.com - DevOps 101&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-hidden&quot;&gt;&lt;div &gt;&lt;div &gt;Room 211&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Date:&lt;/strong&gt; Friday, June 19th, 9:30 am - 5:30 pm&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Setup your own point-and-click SDLC workflow across hosting companies/platforms using free and open source tools:&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ create dev, test, stage, and prod environments across hosting companies&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ Deploy pre-configured auto-scaling clusters for production sites&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ Work on project across platforms (eg: develop on DO and deploy production to AWS Cluster)&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ backup &amp;amp; restore sites across hosting companies&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ manage code and developers using git-flow&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ automatically create test sites from feature branches when using git-flow&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;+ automatically update sites based on tagged git commits&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;You’ll need accounts on Digital Ocean (&lt;a href=&quot;http://digitalocean.com&quot;&gt;http://digitalocean.com&lt;/a&gt;) and Amazon Web Services (&lt;a href=&quot;http://aws.amazon.com&quot;&gt;http://aws.amazon.com&lt;/a&gt;) before attending this training session. All hands-on exercises will require these accounts. &lt;/p&gt;
+&lt;p&gt;
+	The training session is FREE to attend. Seating, however, is limited. &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/taxonomy/term/10&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;DevOps&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-experience-level field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Experience level:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/taxonomy/term/12&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Intermediate&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 09 Jun 2015 00:45:35 +0000</pubDate>
+ <dc:creator>larsdesigns</dc:creator>
+ <guid isPermaLink="false">203 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/training/devops-101-cross-platform-drupal-devops-training#comments</comments>
+</item>
+<item>
+ <title>Drush for site builders and developers: work faster and smarter</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/drush-site-builders-and-developers-work-faster-and-smarter</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;You know you should be using drush, but why? And how?&lt;/p&gt;
+&lt;p&gt;This session will look at:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		The most common commands that people use in drush&lt;/li&gt;
+&lt;li&gt;
+		How to customize your drush environment for maximium productivity&lt;/li&gt;
+&lt;li&gt;
+		Writing a drush command to take care of things for you&lt;/li&gt;
+&lt;li&gt;
+		How to integrate drush with a continuous integration tool like Jenkins&lt;/li&gt;
+&lt;li&gt;
+		An audience participation question: what&#039;s your favorite thing about drush?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;If you build sites with Drupal or are a Drupal developer, I guarantee that I&#039;ll show you some ideas to save a few minutes every day, and probably a few hours here and there.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/greggles-0&quot;&gt;greggles&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;DevOps&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 23 May 2015 04:21:29 +0000</pubDate>
+ <dc:creator>greggles</dc:creator>
+ <guid isPermaLink="false">191 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/drush-site-builders-and-developers-work-faster-and-smarter#comments</comments>
+</item>
+<item>
+ <title>Druplex: Drupal 7 RESTful API With Silex</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/druplex-drupal-7-restful-api-silex</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;What Is That Dang Thing?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this talk, we&#039;ll cover grafting Silex on to an existing Drupal 7 site so it can provide a RESTful API to the Drupal data.&lt;/p&gt;
+&lt;p&gt;Specifically, for a crazy edge case of using a virtual world&#039;s in-game scripting language you&#039;ve never heard of (LSL) to query a Drupal 7 site.&lt;/p&gt;
+&lt;p&gt;The github repo is here: &lt;a href=&quot;https://github.com/paul-m/druplex&quot;&gt;https://github.com/paul-m/druplex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I needed to do it, and you might need to as well.&lt;/p&gt;
+&lt;p&gt;Services module does a lot of good things, but its RESTful API is frustratingly specific to its implementation, and it&#039;s very brittle for some uses.&lt;/p&gt;
+&lt;p&gt;Also we&#039;ll see how easy everything is in Silex as compared to writing a Services extension.&lt;/p&gt;
+&lt;p&gt;Silex is a minimalistic web framework built using Symfony components. Silex makes it (relatively) easy to design and implement a RESTful API.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why Should I Attend?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Join in the fun as we disable Services and get our hands dirty in the code that shims between Silex and Drupal&#039;s APIs.&lt;/p&gt;
+&lt;p&gt;Behold as justifications are made for reasonably marginal security decisions.&lt;/p&gt;
+&lt;p&gt;Enjoin the conversation about how best to write tests for this thing.&lt;/p&gt;
+&lt;p&gt;Also: It&#039;s hooked up to a computer game, OK?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Things You Should Be Familiar With&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hopefully I&#039;ll be clear and easy to understand, but I&#039;ll be moving through the subject quickly. Best to have some of this under your belt:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Understanding what you&#039;re seeing when someone&#039;s typing at the bash prompt.&lt;/li&gt;
+&lt;li&gt;
+		Some basic REST background: &lt;a href=&quot;http://en.wikipedia.org/wiki/Representational_state_transfer&quot;&gt;http://en.wikipedia.org/wiki/Representational_state_transfer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+		Some basic knowledge of Drupal 7 internals and APIs.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Things you&#039;ll learn:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		What is Silex?&lt;/li&gt;
+&lt;li&gt;
+		How can I override Drupal 7&#039;s front controller?&lt;/li&gt;
+&lt;li&gt;
+		How flexible is Drupal 7&#039;s API?&lt;/li&gt;
+&lt;/ul&gt;&lt;p id=&quot;toc_1&quot;&gt;&lt;strong&gt;Food for thought you might leave with:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Is this a better way than D8 Migrate?&lt;/li&gt;
+&lt;li&gt;
+		Why have we not done this sooner?&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/mile23&quot;&gt;Mile23&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 23 May 2015 04:02:13 +0000</pubDate>
+ <dc:creator>Mile23</dc:creator>
+ <guid isPermaLink="false">189 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/druplex-drupal-7-restful-api-silex#comments</comments>
+</item>
+<item>
+ <title>Page Layouts with Drupal</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/page-layouts-drupal</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;There are many ways to acheive complex page layouts in Drupal. A complex page may contain a mix of node content, Drupal Core blocks, Views blocks and other elements. Come learn about different page layout methods including:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;
+		Panels&lt;/li&gt;
+&lt;li&gt;
+		Context&lt;/li&gt;
+&lt;li&gt;
+		Display Suite&lt;/li&gt;
+&lt;li&gt;
+		Custom Code&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;You&#039;ll leave with more confidence about when to use a particular layout method and have the knowledge of its pros &amp;amp; cons. &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/joelsteidl&quot;&gt;joelsteidl&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 21:18:16 +0000</pubDate>
+ <dc:creator>joelsteidl</dc:creator>
+ <guid isPermaLink="false">185 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/page-layouts-drupal#comments</comments>
+</item>
+<item>
+ <title>Visual/CSS Regression Testing -- Catching the &quot;unintended consequences&quot; of modifying your theme</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/visualcss-regression-testing-catching-unintended-consequences-modifying-your-theme</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Have you ever spent hours poring over a web application when making changes to the theme, looking for the consequences of CSS style rules that are too broad?  Ever made changes to a client&#039;s website, only to find out the theming for the newly designed front page totally screwed up the formatting on the product pricing page -- after you deployed the changes?&lt;/p&gt;
+&lt;p&gt;You are not alone.&lt;/p&gt;
+&lt;p&gt;Manual testing of user interfaces for visual and style components is a tedious and time consuming process, and by very nature introduces the human error aspect to web application QA review.  While tools such as Behat have made testing certain aspects of the user interface less tedious, and have removed some of the &quot;human error&quot; aspect from the process, Behat doesn&#039;t provide the capability of testing the &quot;layout&quot; of site changes for those unintended consequences of misapplied HTML, CSS or Javascript.&lt;/p&gt;
+&lt;p&gt;Enter PhantomCSS -- a framework for conducting automated visual regression testing for websites.  In this session we&#039;ll cover:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		What is PhantomCSS?&lt;/li&gt;
+&lt;li&gt;
+		System Requirements for PhantomCSS&lt;/li&gt;
+&lt;li&gt;
+		Skillset Requirements to write test suites for PhantomCSS&lt;/li&gt;
+&lt;li&gt;
+		How can I use PhantomCSS to improve my QA process?&lt;/li&gt;
+&lt;li&gt;
+		Live demonstration of a PhantomCSS test suite, including a review of the output of test results&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Slides from presentation:  &lt;a href=&quot;http://www.slideshare.net/lhridley/visualcss-regression-testing-catching-the-unintended-consequences-of-modifying-your-theme&quot;&gt;http://www.slideshare.net/lhridley/visualcss-regression-testing-catching...&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/5fKI6cffNeQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/lhridley&quot;&gt;lhridley&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 16:58:06 +0000</pubDate>
+ <dc:creator>lhridley</dc:creator>
+ <guid isPermaLink="false">184 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/visualcss-regression-testing-catching-unintended-consequences-modifying-your-theme#comments</comments>
+</item>
+<item>
+ <title>Create a Mobile Self-guided Tour Using Drupal 8 and PhoneGap</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/create-mobile-self-guided-tour-using-drupal-8-and-phonegap</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 203&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Helpful resources for this session are available at:&lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;http://christopherstevens.cc/camp2015&quot;&gt;http://christopherstevens.cc/camp2015&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We&#039;ll explore Drupal 8&#039;s built-in web services and use them to power a mobile app &quot;right out of the box&quot;. The presentation room will be turned into a museum where close proximity to exhibits will trigger rich content shown on iOS and Android devices (courtesy of D8 website JSON data!).&lt;/p&gt;
+&lt;p&gt;	A bulk of this presentation will focus on configuring a &quot;Point of Interest&quot; content type and exposing it via &lt;a href=&quot;http://www.drupal.org/documentation/modules/rest&quot;&gt;RESTful web services&lt;/a&gt; that other systems can easily absorb. We&#039;ll then flash through the process of triggering that content using JavaScript, &lt;a href=&quot;http://phonegap.com/&quot;&gt;PhoneGap&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/IBeacon&quot;&gt;iBeacons&lt;/a&gt; and other exciting technologies.&lt;/p&gt;
+&lt;p&gt;For those interested in diving deeper into PhoneGap, a follow-up BoF session will be provided (time TBD).&lt;/p&gt;
+&lt;p&gt;	Expect to leave with many more questions than you walked in with (but also inspired with some direction). ;)&lt;/p&gt;
+&lt;hr /&gt;&lt;p&gt;------------------------------------&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you desire to take the &quot;tour&quot; with your phone or tablet during the session (not required):&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iPhone/iPad users: &lt;/strong&gt;send me &lt;a href=&quot;http://whatsmyudid.com/&quot;&gt;your device UDID&lt;/a&gt; a couple hours BEFORE the session if not sooner so that I can authorize your phone to install the dev app.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Android users:&lt;/strong&gt; While in theory this will work on your phone, I doubt it will (haven&#039;t had access to the hardware to test recently). I could use a couple of brave souls with Android v4.3+ to find me  so that we can test/troubleshoot the app. Otherwise, I should have it nailed before D8 is officially released. ;)&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lLuF9G623nU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/owntheweb&quot;&gt;owntheweb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 16:51:44 +0000</pubDate>
+ <dc:creator>owntheweb</dc:creator>
+ <guid isPermaLink="false">183 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/create-mobile-self-guided-tour-using-drupal-8-and-phonegap#comments</comments>
+</item>
+<item>
+ <title>Fields of Dreams: Using the Field API</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/fields-dreams-using-field-api</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 101&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;div&gt;
+	The Field API is spectacular. It is not only awesome for developers who are looking to define a custom field, but for those that are looking to display content in a certain way. When coupled with the Field Group API, you are able to unlock the strengths of Thor on your content types.&lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	This talk will look at how to use the Field API and Field Group API to divorce yourself from preprocessing and UI frustrations. The talk will start at a simple base of writing custom field group formatters to standardize field wrappers and structural elements. Then move to custom field formatters to handle the custom display of data. The talk will wrap up with real world examples of using custom field formatters. &lt;/div&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pezh3gGyzHY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/timodwhit-0&quot;&gt;timodwhit&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Front End&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 15:02:13 +0000</pubDate>
+ <dc:creator>timodwhit</dc:creator>
+ <guid isPermaLink="false">181 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/fields-dreams-using-field-api#comments</comments>
+</item>
+<item>
+ <title>What to measure and why to obtain the best customer satisfaction in Drupal support</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/what-measure-and-why-obtain-best-customer-satisfaction-drupal-support</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 16:00-16:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Not everything that can be counted counts, and not everything that counts can be counted. - Albert Einstein, Physicist&lt;/p&gt;
+&lt;p&gt;This is a business session that will reflect on our drive towards understanding what should be measured and why as a tool to improving our financial performance and client satisfaction. We start at looking at many different ways to measure project progress, support SLAs developer performance, team performance, company performance and client satisfaction. We will discuss the many different metrics, how they are used and what are their outcomes. No measures will be spared, progress, efficiency, effectiveness, response time, resolution, costs, productivity, utilization, workload, employee satisfaction, customer satisfaction. We will examine the many possibilities of measurement and the measures we find valuable.&lt;/p&gt;
+&lt;p&gt;What you will learn:&lt;br /&gt;
+	- different ways to measure company performance&lt;br /&gt;
+	- different ways to measure support &amp;amp; operations&lt;br /&gt;
+	- ways to measure customer satisfaction&lt;/p&gt;
+
+&lt;p&gt;Who should attend:&lt;br /&gt;
+	- managers&lt;br /&gt;
+	- project managers&lt;br /&gt;
+	- team leads&lt;br /&gt;
+	- developers &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/akucharski&quot;&gt;akucharski&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 20:47:43 +0000</pubDate>
+ <dc:creator>a_rory_borealis</dc:creator>
+ <guid isPermaLink="false">175 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/what-measure-and-why-obtain-best-customer-satisfaction-drupal-support#comments</comments>
+</item>
+<item>
+ <title>Estimation - The Art and Science</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/estimation-art-and-science</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;*** Presented at Drupalcon LA 2015 to a full house of estimation enthusiasts.  This session will include parts of that presentation and expand even further upon those concepts.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Why as a software industry are we struggling so often with hitting our estimates?  Does the problems reside in the way we are estimating a project or the way we are executing them?  Through 30+ years of modern software development what have we learned and what are we continuing to struggle with today?  &lt;/p&gt;
+&lt;p&gt;In this session I would like to discuss not only the problems associated with estimation and how to avoid them, but more importantly how we can plan for them, turning our estimation process into not only an art, but a science. Well cover how to sell your estimate internally, and arm you with the methodologies to support your numbers, and avoid the pitfalls that create projects that go 100% overbudget.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is the problem with software estimation?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;The morale, metrics and realities we have learned over time&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;The results of our decades worth of estimation error&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Avoiding Risk&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Project entry point of sale&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Risk association with point of sale&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Products in the front, estimations in the back&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Getting out of jail&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Other lessons learned&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;The Elusive Discovery phase&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;How to estimate a discovery&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to sell a discovery&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Planning for Risk &lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Estimation types&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Gut - An art form&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Comparables - An art/science&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Factors/formula - A science&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Contingency&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;Rating systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Formulas&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Granularity&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/x4hFhPf9AdY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/jsnoles49&quot;&gt;jsnoles49&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Business and Open Source&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 19:54:15 +0000</pubDate>
+ <dc:creator>jsnoles49</dc:creator>
+ <guid isPermaLink="false">174 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/estimation-art-and-science#comments</comments>
+</item>
+<item>
+ <title>Caching Data for Site Performance</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/caching-data-site-performance</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;We all live in the world of Big Data. With the increased prevalance of third party databases, and the need for multiple queries and joins, I&#039;m going to go over some simple caching techniques to reduce the number of external database calls, decrease page load time, and improve user experience.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/choicelildice-0&quot;&gt;choicelildice&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 15:47:47 +0000</pubDate>
+ <dc:creator>choicelildice</dc:creator>
+ <guid isPermaLink="false">172 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/caching-data-site-performance#comments</comments>
+</item>
+</channel>
+</rss>

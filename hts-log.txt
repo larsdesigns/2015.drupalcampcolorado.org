@@ -1,0 +1,20 @@
+HTTrack3.49-1 launched on Fri, 09 Jun 2017 02:45:15 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io
+(httrack https://dev-2015drupalcampcoloradoorg.pantheonsite.io -w -O . -%v -s0 -c1 -%e0 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:03:09	Error: 	"Not Found" (404) at link https://dev-2015drupalcampcoloradoorg.pantheonsite.io/profiles/dcco/themes/dcco2015/img/icon-s24b0f89ea3.png (from https://dev-2015drupalcampcoloradoorg.pantheonsite.io/sites/default/files/css/css_WZBTfkruQFMiNeBt7sDmrhnvK87i9mkSnonQc-jVzsY.css)
+03:03:09	Error: 	"Not Found" (404) at link https://dev-2015drupalcampcoloradoorg.pantheonsite.io/has_js=1; path=/ (from https://dev-2015drupalcampcoloradoorg.pantheonsite.io/sites/default/files/js/js_WkOMkSyjg9rxsesVK2mUAVX_dhZTWbIE6jpIzuL-ygM.js)
+03:03:09	Error: 	"Not Found" (404) at link https://dev-2015drupalcampcoloradoorg.pantheonsite.io/POST (from https://dev-2015drupalcampcoloradoorg.pantheonsite.io/sites/default/files/googleanalytics/analytics.js?or9uxo)
+03:03:09	Error: 	"Not Found" (404) at link https://dev-2015drupalcampcoloradoorg.pantheonsite.io/gtm.js (from https://dev-2015drupalcampcoloradoorg.pantheonsite.io/sites/default/files/googleanalytics/analytics.js?or9uxo)
+03:03:09	Error: 	"Not Found" (404) at link https://dev-2015drupalcampcoloradoorg.pantheonsite.io/plugins/ (from https://dev-2015drupalcampcoloradoorg.pantheonsite.io/sites/default/files/googleanalytics/analytics.js?or9uxo)
+03:30:20	Error: 	"Forbidden" (403) at link https://dev-2015drupalcampcoloradoorg.pantheonsite.io/node/add/session (from https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/session-deadline-may-22nd-midnight-mst)
+03:30:41	Error: 	"Not Found" (404) at link https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/all-user-profiles (from https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/june-20th-day-1)
+03:39:46	Error: 	"Forbidden" (403) at link https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/beginners-guide-drupal (from https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/june-19th-drupal-training-day)
+03:40:10	Error: 	"Not Found" (404) at link https://dev-2015drupalcampcoloradoorg.pantheonsite.io/node/all-user-profiles (from https://dev-2015drupalcampcoloradoorg.pantheonsite.io/node/104)
+
+HTTrack Website Copier/3.49-1 mirror complete in 1 hours 0 minutes 1 seconds : 2112 links scanned, 2103 files written (31001354 bytes overall) [15285724 bytes received at 4244 bytes/sec], 25737311 bytes transferred using HTTP compression in 1871 files, ratio 30%, 88.0 requests per connection
+(9 errors, 0 warnings, 0 messages)

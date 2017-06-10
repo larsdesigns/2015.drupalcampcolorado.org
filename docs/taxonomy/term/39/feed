@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - deadline</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/tags/deadline</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Session Deadline - May 22nd, Midnight MST</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/session-deadline-may-22nd-midnight-mst</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;We&#039;ll be closing session submission on May 22nd at Midnight Mountain Time!  If you are thinking you want to present, don&#039;t procrastinate!  &lt;a href=&quot;/node/add/session&quot;&gt;Submit your session right now&lt;/a&gt; and we&#039;ll look forward to seeing you in Denver in June.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div &gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/sessions&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;sessions&lt;/a&gt;&lt;/div&gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/deadline&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;deadline&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 07 May 2015 20:35:57 +0000</pubDate>
+ <dc:creator>MatthewS</dc:creator>
+ <guid isPermaLink="false">158 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/session-deadline-may-22nd-midnight-mst#comments</comments>
+</item>
+</channel>
+</rss>

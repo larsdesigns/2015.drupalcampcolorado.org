@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Development and Site Building</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/6</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Advanced Drupal Security for Developers</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/advanced-drupal-security-developers</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Well well well. Let&#039;s look at Drupal Security for developers and themers.&lt;/p&gt;
+&lt;p&gt;First, we&#039;ll look at the most common security vulnerabilities that are found in Drupal. Then we&#039;ll look at actual ways to exploit those vulnerabilities (with sample exploits you can try out yourself!). Then we&#039;ll talke about the ways to fix vulnerabilities. Finally, we&#039;ll wrap up the session with some quick tips of management practices and modules to install to make your site more secure.&lt;/p&gt;
+&lt;p&gt;Specifically this will cover:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Cross Site Scripting - the attacker&#039;s version of Ajax&lt;/li&gt;
+&lt;li&gt;
+		Cross Site Request Forgeries - what was your intent?&lt;/li&gt;
+&lt;li&gt;
+		SQL Injection - Drupalgeddon, right?&lt;/li&gt;
+&lt;li&gt;
+		Access Bypass - do what you like, when you like&lt;/li&gt;
+&lt;li&gt;
+		My favorite security modules&lt;/li&gt;
+&lt;li&gt;
+		Some ideas on how to avoid getting exploited&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/greggles-0&quot;&gt;greggles&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 23 May 2015 04:17:01 +0000</pubDate>
+ <dc:creator>greggles</dc:creator>
+ <guid isPermaLink="false">190 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/advanced-drupal-security-developers#comments</comments>
+</item>
+<item>
+ <title>Druplex: Drupal 7 RESTful API With Silex</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/druplex-drupal-7-restful-api-silex</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;What Is That Dang Thing?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this talk, we&#039;ll cover grafting Silex on to an existing Drupal 7 site so it can provide a RESTful API to the Drupal data.&lt;/p&gt;
+&lt;p&gt;Specifically, for a crazy edge case of using a virtual world&#039;s in-game scripting language you&#039;ve never heard of (LSL) to query a Drupal 7 site.&lt;/p&gt;
+&lt;p&gt;The github repo is here: &lt;a href=&quot;https://github.com/paul-m/druplex&quot;&gt;https://github.com/paul-m/druplex&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I needed to do it, and you might need to as well.&lt;/p&gt;
+&lt;p&gt;Services module does a lot of good things, but its RESTful API is frustratingly specific to its implementation, and it&#039;s very brittle for some uses.&lt;/p&gt;
+&lt;p&gt;Also we&#039;ll see how easy everything is in Silex as compared to writing a Services extension.&lt;/p&gt;
+&lt;p&gt;Silex is a minimalistic web framework built using Symfony components. Silex makes it (relatively) easy to design and implement a RESTful API.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why Should I Attend?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Join in the fun as we disable Services and get our hands dirty in the code that shims between Silex and Drupal&#039;s APIs.&lt;/p&gt;
+&lt;p&gt;Behold as justifications are made for reasonably marginal security decisions.&lt;/p&gt;
+&lt;p&gt;Enjoin the conversation about how best to write tests for this thing.&lt;/p&gt;
+&lt;p&gt;Also: It&#039;s hooked up to a computer game, OK?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Things You Should Be Familiar With&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hopefully I&#039;ll be clear and easy to understand, but I&#039;ll be moving through the subject quickly. Best to have some of this under your belt:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Understanding what you&#039;re seeing when someone&#039;s typing at the bash prompt.&lt;/li&gt;
+&lt;li&gt;
+		Some basic REST background: &lt;a href=&quot;http://en.wikipedia.org/wiki/Representational_state_transfer&quot;&gt;http://en.wikipedia.org/wiki/Representational_state_transfer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+		Some basic knowledge of Drupal 7 internals and APIs.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Things you&#039;ll learn:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		What is Silex?&lt;/li&gt;
+&lt;li&gt;
+		How can I override Drupal 7&#039;s front controller?&lt;/li&gt;
+&lt;li&gt;
+		How flexible is Drupal 7&#039;s API?&lt;/li&gt;
+&lt;/ul&gt;&lt;p id=&quot;toc_1&quot;&gt;&lt;strong&gt;Food for thought you might leave with:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Is this a better way than D8 Migrate?&lt;/li&gt;
+&lt;li&gt;
+		Why have we not done this sooner?&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/mile23&quot;&gt;Mile23&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 23 May 2015 04:02:13 +0000</pubDate>
+ <dc:creator>Mile23</dc:creator>
+ <guid isPermaLink="false">189 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/druplex-drupal-7-restful-api-silex#comments</comments>
+</item>
+<item>
+ <title>Page Layouts with Drupal</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/page-layouts-drupal</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;There are many ways to acheive complex page layouts in Drupal. A complex page may contain a mix of node content, Drupal Core blocks, Views blocks and other elements. Come learn about different page layout methods including:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;
+		Panels&lt;/li&gt;
+&lt;li&gt;
+		Context&lt;/li&gt;
+&lt;li&gt;
+		Display Suite&lt;/li&gt;
+&lt;li&gt;
+		Custom Code&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;You&#039;ll leave with more confidence about when to use a particular layout method and have the knowledge of its pros &amp;amp; cons. &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/joelsteidl&quot;&gt;joelsteidl&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 21:18:16 +0000</pubDate>
+ <dc:creator>joelsteidl</dc:creator>
+ <guid isPermaLink="false">185 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/page-layouts-drupal#comments</comments>
+</item>
+<item>
+ <title>Create a Mobile Self-guided Tour Using Drupal 8 and PhoneGap</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/create-mobile-self-guided-tour-using-drupal-8-and-phonegap</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 203&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Helpful resources for this session are available at:&lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;http://christopherstevens.cc/camp2015&quot;&gt;http://christopherstevens.cc/camp2015&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We&#039;ll explore Drupal 8&#039;s built-in web services and use them to power a mobile app &quot;right out of the box&quot;. The presentation room will be turned into a museum where close proximity to exhibits will trigger rich content shown on iOS and Android devices (courtesy of D8 website JSON data!).&lt;/p&gt;
+&lt;p&gt;	A bulk of this presentation will focus on configuring a &quot;Point of Interest&quot; content type and exposing it via &lt;a href=&quot;http://www.drupal.org/documentation/modules/rest&quot;&gt;RESTful web services&lt;/a&gt; that other systems can easily absorb. We&#039;ll then flash through the process of triggering that content using JavaScript, &lt;a href=&quot;http://phonegap.com/&quot;&gt;PhoneGap&lt;/a&gt;, &lt;a href=&quot;http://en.wikipedia.org/wiki/IBeacon&quot;&gt;iBeacons&lt;/a&gt; and other exciting technologies.&lt;/p&gt;
+&lt;p&gt;For those interested in diving deeper into PhoneGap, a follow-up BoF session will be provided (time TBD).&lt;/p&gt;
+&lt;p&gt;	Expect to leave with many more questions than you walked in with (but also inspired with some direction). ;)&lt;/p&gt;
+&lt;hr /&gt;&lt;p&gt;------------------------------------&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you desire to take the &quot;tour&quot; with your phone or tablet during the session (not required):&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;iPhone/iPad users: &lt;/strong&gt;send me &lt;a href=&quot;http://whatsmyudid.com/&quot;&gt;your device UDID&lt;/a&gt; a couple hours BEFORE the session if not sooner so that I can authorize your phone to install the dev app.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Android users:&lt;/strong&gt; While in theory this will work on your phone, I doubt it will (haven&#039;t had access to the hardware to test recently). I could use a couple of brave souls with Android v4.3+ to find me  so that we can test/troubleshoot the app. Otherwise, I should have it nailed before D8 is officially released. ;)&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lLuF9G623nU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/owntheweb&quot;&gt;owntheweb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 16:51:44 +0000</pubDate>
+ <dc:creator>owntheweb</dc:creator>
+ <guid isPermaLink="false">183 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/create-mobile-self-guided-tour-using-drupal-8-and-phonegap#comments</comments>
+</item>
+<item>
+ <title>Translate in Drupal 8: A New Era in Translation Has Begun</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/translate-drupal-8-new-era-translation-has-begun</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Drupal 8&#039;s new and improved multilingual tools open a world of translation capabilities for users of the Lingotek Translation contribution module for Drupal. The majority of Drupal 7&#039;s contributed multilingual modules have been replaced with just a few Drupal core modules - making D8 more multilingual out of the box. Lingotek builds on top of that increased functionality to offer users a complete translation and localization experience. &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;For D8, all content entity types can now be translated using Lingotek&#039;s automated, cloud-based translation management system (TMS), and site administrators will receive the same superior support from Lingotek&#039;s team of translation experts.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;In this presentation, you will learn about:&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;- the changes to the multilingual landscape in Drupal 8, &lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;- updates to the Lingotek Translation module for D8, &lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;- how to manage translation for projects that want to charge ahead with D8, &lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;- and how you can leverage Lingotek&#039;s services to keep your users satisfied.&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/ssorenson13&quot;&gt;ssorenson13&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 16:04:36 +0000</pubDate>
+ <dc:creator>lvandenberg</dc:creator>
+ <guid isPermaLink="false">182 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/translate-drupal-8-new-era-translation-has-begun#comments</comments>
+</item>
+<item>
+ <title>Distributions:  Learning from Others</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/distributions-learning-others</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 15:00-15:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drupal comes with some assembly required.  Drupal core itself is pretty bare bones.  Thanks to several thousand contributed modules, virtually any functionality is possible.  Distributions take those modules, combine them with configuration to serve a specific use case.  There are almost 500 distributions on drupal.org, so it is possible there’s one that might meet your needs, or a lot of them.&lt;/p&gt;
+&lt;p&gt;Distributions are also often big, enabling over 100 modules, and notoriously hard to update.&lt;/p&gt;
+&lt;p&gt;Even if you don’t use a distribution, distributions have another, useful, purpose—you can learn from them.&lt;/p&gt;
+&lt;p&gt;Join me as I perform autopsies of three distributions with similar goals—enabling rapid development of governmental websites:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		aGov&lt;/li&gt;
+&lt;li&gt;
+		OpenPublic&lt;/li&gt;
+&lt;li&gt;
+		WetKit&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Like a medical examiner, we’ll dissect the distributions and try to understand how and why they were constructed.  We’ll also look at how these distributions have evolved their approach as they have gained experience using the distribution.&lt;/p&gt;
+&lt;p&gt;Among the things we’ll cover are:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Modules used&lt;/li&gt;
+&lt;li&gt;
+		Content types&lt;/li&gt;
+&lt;li&gt;
+		Views&lt;/li&gt;
+&lt;li&gt;
+		Features (how components are being modularized)&lt;/li&gt;
+&lt;li&gt;
+		Initialization code&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/gregg-marshall-0&quot;&gt;Gregg Marshall&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 03:44:01 +0000</pubDate>
+ <dc:creator>Gregg Marshall</dc:creator>
+ <guid isPermaLink="false">179 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/distributions-learning-others#comments</comments>
+</item>
+<item>
+ <title>Building Colorado.gov on D7</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/building-coloradogov-d7</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;This is an overview of how the new colorado.gov site was built. I&#039;d like to cover the modules that were used such as Beans, Panels, Context etc.... and how they played a role in the site architecture of the new portal. &lt;/p&gt;
+&lt;p&gt;Site builders will benefit the most from this session as we:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Explore the modules put to use.&lt;/li&gt;
+&lt;li&gt;
+		Go over site architecture.&lt;/li&gt;
+&lt;li&gt;
+		Discuss the Author experience.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;The Modules we talk about (for the most part):&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Panels (When and why)&lt;/li&gt;
+&lt;li&gt;
+		Views (Of course!)&lt;/li&gt;
+&lt;li&gt;
+		Context (Dive into our conditional block placement)&lt;/li&gt;
+&lt;li&gt;
+		Beans (Custom blocks made easy)&lt;/li&gt;
+&lt;li&gt;
+		Leaflet More Maps&lt;/li&gt;
+&lt;li&gt;
+		Feeds (Importing content from our other sites)&lt;/li&gt;
+&lt;li&gt;
+		Features and Drush&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/alne1147-0&quot;&gt;alne1147&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 01:58:53 +0000</pubDate>
+ <dc:creator>alne1147</dc:creator>
+ <guid isPermaLink="false">178 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/building-coloradogov-d7#comments</comments>
+</item>
+<item>
+ <title>Caching Data for Site Performance</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/caching-data-site-performance</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;We all live in the world of Big Data. With the increased prevalance of third party databases, and the need for multiple queries and joins, I&#039;m going to go over some simple caching techniques to reduce the number of external database calls, decrease page load time, and improve user experience.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/choicelildice-0&quot;&gt;choicelildice&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 21 May 2015 15:47:47 +0000</pubDate>
+ <dc:creator>choicelildice</dc:creator>
+ <guid isPermaLink="false">172 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/caching-data-site-performance#comments</comments>
+</item>
+<item>
+ <title>CTools Plugins Demystified</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/ctools-plugins-demystified</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;In the world of CTools and Panels there&#039;s often a bunch of magic that happens in the shadows that does a lot to help you out without your knowing about it.&lt;/p&gt;
+&lt;p&gt;If you were to shed some light on the shadows and look into the world of CTools plugins, you might find another world of leverage where you can easily bend your content and business logic to your will.&lt;/p&gt;
+&lt;p&gt;We&#039;ll talk about the more basic ones, contet type and access plugins, and then delve inot the fun world of contexts and relationships. There will be code, and death-defying live demonstrations.&lt;/p&gt;
+&lt;p&gt;Hey, if you&#039;re going ot have to use Panels, you might as well like it at least a little bit, right?&lt;/p&gt;
+&lt;p&gt;Since chances are you&#039;re building Drupal 7, we&#039;ll talk mostly about Drupal 7 but have an eye to the future.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/vordude&quot;&gt;vordude&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 20 May 2015 20:49:53 +0000</pubDate>
+ <dc:creator>vordude</dc:creator>
+ <guid isPermaLink="false">168 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/ctools-plugins-demystified#comments</comments>
+</item>
+<item>
+ <title>Speeding up Drupal 8 development using Drupal Console</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/speeding-drupal-8-development-using-drupal-console</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 10:30-11:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Recital Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Drupal Console is a suite of tools that you run on a command line interface (CLI) to generate boilerplate code and interact with a Drupal 8 installation.&lt;/p&gt;
+&lt;p&gt;Drupal Console is another cool addition to the Proudly Invented Elsewhere school of thought as it leverages the Symfony Console component to handle the CLI part.&lt;/p&gt;
+&lt;p&gt;The goal of this project is provide a tool easy to use for everyone, from developers currently using Drupal 8 and those who are planning to learn.&lt;/p&gt;
+&lt;p&gt;Drupal 8 is more technically advanced compared to its predecessor. Writing a module involves a lot of boilerplate code. There are also a lot of things you need to know and do just to get started building a new module. These tasks can be repetitive and tedious and can therefore create opportunities for errors. Fortunately, a lot of the new code can be generated automatically using Drupal Console.&lt;/p&gt;
+&lt;p&gt;During this session, attendees will learn:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		What is the Drupal Console?.&lt;/li&gt;
+&lt;li&gt;
+		Why should you care about Drupal Console?.&lt;/li&gt;
+&lt;li&gt;
+		How to install and use Drupal Console.&lt;/li&gt;
+&lt;li&gt;
+		How to develop integrations for Drupal Console (custom commands for contrib modules).&lt;/li&gt;
+&lt;li&gt;
+		How to contribute to Drupal Console.&lt;/li&gt;
+&lt;li&gt;
+		How to use Drupal Console to learn Drupal 8.&lt;/li&gt;
+&lt;/ul&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Jg865dyv8PM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/enzo&quot;&gt;enzo&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Development and Site Building&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 20 May 2015 17:02:40 +0000</pubDate>
+ <dc:creator>enzo</dc:creator>
+ <guid isPermaLink="false">167 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/speeding-drupal-8-development-using-drupal-console#comments</comments>
+</item>
+</channel>
+</rss>

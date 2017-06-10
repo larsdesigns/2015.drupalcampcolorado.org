@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - Design and Information Architecture</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/taxonomy/term/9</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Defining Design</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/defining-design</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 11:30-12:15&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Concert Hall&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;Whether it’s designing in the browser, a prototyping tool, or heck, even a photography application, design has to start somewhere. But what’s the best approach? The sooner we let go of our tools and realize that the process is about the outcomes, the sooner we can make meaningful progress designing websites.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;The time of Designers handing off full page comps is long gone. As front-end development shifts to more modular approaches, how does design change to better collaborate in this new ecosystem?&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;At Aten, we&#039;ve been designing websites since before CSS-based approaches were a thing. Along the way we&#039;ve adapted to the constant changes by staying nimble and revisiting our approach to design. This session aims to tackle the role design plays throughout the lifecycle of a project, big or small.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;A few questions this session will answer:&lt;/p&gt;
+&lt;ul&gt;&lt;li dir=&quot;ltr&quot;&gt;
+&lt;p dir=&quot;ltr&quot;&gt;What does a modern design process look like?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;
+&lt;p dir=&quot;ltr&quot;&gt;What are the outcomes of this process?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;
+&lt;p dir=&quot;ltr&quot;&gt;What tools exist to make this process easier?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;
+&lt;p dir=&quot;ltr&quot;&gt;How can teams collaborate on designing beautiful, usable websites?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;
+		How dead is Photoshop?&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/kenwoodworth&quot;&gt;kenwoodworth&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Design and Information Architecture&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 28 May 2015 02:18:28 +0000</pubDate>
+ <dc:creator>kenwoodworth</dc:creator>
+ <guid isPermaLink="false">194 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/defining-design#comments</comments>
+</item>
+<item>
+ <title>Design Is Not About Handing Off, It&#039;s About Holding Hands</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/design-not-about-handing-its-about-holding-hands</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-20th-day-1&quot;&gt;June 20th - Day 1 16:00-16:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 201&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;Where should you draw the line between design and development? &lt;b&gt;You shouldn&#039;t!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In this session we will talk about how designers and developers should collaborate on a project from start to finish. We will explore what a designer sees vs what a developer sees in project files, wireframes and research, as well as, the balance between communication and documentation.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bUbBlkvbqsA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/e3creatives&quot;&gt;E3Creatives&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Design and Information Architecture&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 22 May 2015 23:09:01 +0000</pubDate>
+ <dc:creator>E3Creatives</dc:creator>
+ <guid isPermaLink="false">187 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/design-not-about-handing-its-about-holding-hands#comments</comments>
+</item>
+<item>
+ <title>I Need a Translation: Devops and Sophisticated Workflows for Designers</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/i-need-translation-devops-and-sophisticated-workflows-designers</link>
+ <description>&lt;div class=&quot;field field-name-field-session-timeslot field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Timeslot:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/content/june-21st-day-2&quot;&gt;June 21st - Day 2 14:00-14:45&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Room:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Room 103&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;&quot;Devops&quot; and &quot;Front-End Developer&quot; are hot buzzwords in the Drupal community today as we are all recognizing the value they bring to our organizations. For many shops these roles are fresh, and we are still figuring out how to un-silo our teams, optimize workflows, and communicate with one another. &lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	At Bluetent we discovered that our Developers and Devops Team, for the most part, &quot;speak the same language&quot;.... a somewhat foreign language to our Designers and Front-End Devs. Everyone was expected to use the same tools, yet 1/3 of the team had only a fragmented understanding of how they actually worked, leading to inefficiencies and errors.  &lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	Just like a foreign language, we saw that repeated explanations *might get us a little further each time, but we had a communication barrier, plain and simple. Why? Because our brains work differently. This session aims to demystify Devops and the local dev workflow for visually driven designers/front-end developers through Visual Communication. After all, if you are a Designer or Front-End Dev, you are in the business of Visual Communication my friend!&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	We will cover:&lt;/p&gt;
+&lt;p&gt;	- What is devops, and why it is important to integrated un-siloed teams of designers and developers&lt;/p&gt;
+&lt;p&gt;	- Visual explanation of Github, local dev workflows, and virtualbox&lt;/p&gt;
+&lt;p&gt;	- Visual Explanation of Jenkins: What is he, how does he work, how does he automate tasks&lt;/p&gt;
+&lt;p&gt;	- Creating custom bash scripts to meet your teams needs&lt;/p&gt;
+&lt;p&gt;	- Automating testing with behat&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;p&gt;	This is talk is for Designers / Front End Devs who:&lt;/p&gt;
+&lt;p&gt;	... are visual thinkers/learners seeking a deeper understanding of devops, github, and the local dev workflow&lt;/p&gt;
+&lt;p&gt;	... are working on teams with drupal/software developers&lt;/p&gt;
+&lt;p&gt;	... are not, and do not want to be server experts&lt;/p&gt;
+&lt;p&gt;	... want to understand what their devops team is doing, but within the scope of relevance&lt;/p&gt;
+&lt;p&gt;	... could use some help with github/version control philosophy and processes&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-speaker field-type-entityreference field-label-inline clearfix&quot;&gt;&lt;div &gt;Speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;&lt;a href=&quot;/users/mariafromkorea&quot;&gt;mariafromkorea&lt;/a&gt;&lt;/div&gt;&lt;div &gt;&lt;a href=&quot;/users/ethanhinson-0&quot;&gt;ethanhinson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-track field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div &gt;Track:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div &gt;Design and Information Architecture&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 14 May 2015 00:39:26 +0000</pubDate>
+ <dc:creator>mariafromkorea</dc:creator>
+ <guid isPermaLink="false">159 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/session/i-need-translation-devops-and-sophisticated-workflows-designers#comments</comments>
+</item>
+</channel>
+</rss>

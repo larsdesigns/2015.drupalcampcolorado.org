@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - sessions</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/tags/sessions</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Schedule Up!</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/schedule</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  rel=&quot;og:image rdfs:seeAlso&quot; resource=&quot;https://dev-2015drupalcampcoloradoorg.pantheonsite.io/sites/default/files/styles/large/public/field/image/14808179284_5c447eda57_b.jpg?itok=kUPh_eXv&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://dev-2015drupalcampcoloradoorg.pantheonsite.io/sites/default/files/styles/large/public/field/image/14808179284_5c447eda57_b.jpg?itok=kUPh_eXv&quot; width=&quot;480&quot; height=&quot;319&quot; alt=&quot;Camp 2014&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;There may be minor changes, but the &lt;a href=&quot;/session-schedule&quot;&gt;session schedule&lt;/a&gt; is largely in place and up for you to peruse!  Whether you are interested in front end, back end, design, devops, or you are a beginner looking to get your feet wet, this slate has it all.  With over 40 amazing sessions to choose from, this event will have all the Drupal you could possibly want!  Many thanks to our amazing &lt;a href=&quot;/sponsors&quot;&gt;sponsors&lt;/a&gt; and volunteers who make this event happen!  We&#039;re just about 18 days out and very excited about the event!  So, &lt;a href=&quot;/register&quot;&gt;register&lt;/a&gt; and make a donation to the great causes we are supporting this year.  We will see you in just over two weeks for Drupal, social events, and training!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div &gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/schedule&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;schedule&lt;/a&gt;&lt;/div&gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/sessions&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;sessions&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 02 Jun 2015 12:32:07 +0000</pubDate>
+ <dc:creator>MatthewS</dc:creator>
+ <guid isPermaLink="false">202 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/schedule#comments</comments>
+</item>
+<item>
+ <title>Session Deadline - May 22nd, Midnight MST</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/session-deadline-may-22nd-midnight-mst</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;We&#039;ll be closing session submission on May 22nd at Midnight Mountain Time!  If you are thinking you want to present, don&#039;t procrastinate!  &lt;a href=&quot;/node/add/session&quot;&gt;Submit your session right now&lt;/a&gt; and we&#039;ll look forward to seeing you in Denver in June.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div &gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/sessions&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;sessions&lt;/a&gt;&lt;/div&gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/deadline&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;deadline&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 07 May 2015 20:35:57 +0000</pubDate>
+ <dc:creator>MatthewS</dc:creator>
+ <guid isPermaLink="false">158 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/session-deadline-may-22nd-midnight-mst#comments</comments>
+</item>
+</channel>
+</rss>

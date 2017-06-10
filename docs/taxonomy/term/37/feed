@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://dev-2015drupalcampcoloradoorg.pantheonsite.io"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>DrupalCamp Colorado - register</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/tags/register</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Registration, Donations, and Session Submissions are Open</title>
+ <link>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/registration-donations-and-session-submissions-are-open</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div &gt;&lt;div  property=&quot;content:encoded&quot;&gt;&lt;p&gt;We are absolutely thrilled to announce that we are open and ready for business! We&#039;re 77 days out. Like last year, the camp will be free, but we will be donating profits after we have paid all our expenses to two great tech causes.&lt;/p&gt;
+&lt;p&gt;So, it is time to &lt;a href=&quot;https://2015.drupalcampcolorado.org/register&quot;&gt;register&lt;/a&gt; (you don&#039;t need to make a donation to register and you can choose to make a donation at any time). We also encourage you to &lt;a href=&quot;/node/add/session&quot;&gt;submit a session&lt;/a&gt; and &lt;a href=&quot;/sessions/submitted&quot;&gt;view sessions that have been submitted&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;	 &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div &gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div &gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/register&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;register&lt;/a&gt;&lt;/div&gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/tags/submit-session&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;submit a session&lt;/a&gt;&lt;/div&gt;&lt;div  rel=&quot;dc:subject&quot;&gt;&lt;a href=&quot;/taxonomy/term/32&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;donations&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 03 Apr 2015 02:12:55 +0000</pubDate>
+ <dc:creator>MatthewS</dc:creator>
+ <guid isPermaLink="false">137 at https://dev-2015drupalcampcoloradoorg.pantheonsite.io</guid>
+ <comments>https://dev-2015drupalcampcoloradoorg.pantheonsite.io/content/registration-donations-and-session-submissions-are-open#comments</comments>
+</item>
+</channel>
+</rss>
